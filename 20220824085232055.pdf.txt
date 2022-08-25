@@ -1,0 +1,1060 @@
+Case 1:22-cv-01105-UNA Document 4 Filed 08/23/22 Page 1 of 2 PageID #: 45
+AO 440 (Rev. 06/12) Summons in a Civil Action
+UNITED STATES DISTRICT COURT
+for the District of Delaware
+SUCXESS LLC
+)
+Plaintiff(s)
+V
+COMMA.AI, INC.
+AnAAAAAAAAAA ) ) )
+Civil Action No. 1:22-cv-01105-UNA
+Defendant(s)
+SUMMONS IN A CIVIL ACTION
+To: (Defendant's name and address) COMMA.AI, INC.
+c/o Incorporating Services, Ltd.
+3500 South DuPont Hwy.
+Dover, Delaware 19901
+A lawsuit has been filed against you.
+Within 21 days after service of this summons on you (not counting the day you received it) - or 60 days if you are the United States or a United States agency, or an officer or employee of the United States described in Fed. R. Civ. P. 12 (a)(2) or (3) - you must serve on the plaintiff an answer to the attached complaint or a motion under Rule 12 of the Federal Rules of Civil Procedure. The answer or motion must be served on the plaintiff or plaintiff's attorney,
+whose name and address are: George Pazuniak O'KELLY & O'ROURKE, LLC 824 N Market St, Ste 1001A Wilmington, DE 19801 D: (207) 359-8576 gp@del-iplaw.com
+If you fail to respond, judgment by default will be entered against you for the relief demanded in the complaint. You also must file your answer or motion with the court.
+Date:
+UNITED STAT
+CLERK OF COURT /s/ John A. Cerino
+RICT COURT
+* DIS
+C
+O OF
+*
+AWARE
+Signature of Clerk or Deputy Clerk
+Case 1:22-cv-01105-UNA Document 4 Filed 08/23/22 Page 2 of 2 PageID #: 46
+AO 440 (Rev. 06/12) Summons in a Civil Action (Page 2)
+Civil Action No. 1:22-cv-01105-UNA
+PROOF OF SERVICE (This section should not be filed with the court unless required by Fed. R. Civ. P. 4 (1))
+This summons for (name of individual and title, if any)
+was received by me on (date)
+I personally served the summons on the individual at (place) on (date) ; or
+I left the summons at the individual's residence or usual place of abode with (name)
+, a person of suitable age and discretion who resides there,
+on (date)
+, and mailed a copy to the individual's last known address; or
+O I served the summons on (name of individual)
+on (date) ; or
+, who is designated by law to accept service of process on behalf of (name of organization)
+I returned the summons unexecuted because
+; or
+Other (specify):
+My fees are $
+for travel and $
+for services, for a total of $
+0.00
+I declare under penalty of perjury that this information is true.
+Date:
+Server's signature
+Printed name and title
+Server's address
+Additional information regarding attempted service, etc:
+Case 1:22-cv-01105-UNA Document 1 Filed 08/23/22 Page 1 of 10 PageID #: 1
+IN THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF DELAWARE
+SUCXESS LLC,
+Case No. Jury Trial Demanded
+Plaintiff,
+v.
+COMMA.AI, INC.,
+Defendant.
+COMPLAINT FOR PATENT INFRINGEMENT
+Plaintiff Success LLC, by and through the undersigned counsel, files this Complaint for patent infringement against Defendant comma.ai, Inc., and in support states:
+Parties
+1. Plaintiff Success LLC ("Success") is a limited liability company organized and existing under the laws of the State of Michigan and having its principal place of business in Birmingham, Michigan.
+2. Defendant comma.ai, Inc. ("comma.ai") is a corporation organized and existing under the laws of the State of Delaware and having a place of business in San Diego, California. comma.ai's registered agent is Incorporating Services, Ltd., 3500 South DuPont Hwy., Dover, Delaware 19901.
+Jurisdiction and Venue
+3. This is an action for patent infringement arising under the patent laws of the United
+States, 35 U.S.C. § 1 et seq., including 35 U.S.C. §§ 271. This Court has subject matter jurisdiction under 28 U.S.C. §§ 1331 and 1338(a).
+Case 1:22-cv-01105-UNA Document 1 Filed 08/23/22 Page 2 of 10 PageID #: 2
+4. This Court has personal jurisdiction over Defendant at least because Defendant is a corporation organized under the laws of the State of Delaware.
+5 Venue is proper in this Judicial District under 28 U.S.C. §§ 1391 and 1400(b).
+The Patents-in-Suit
+6. U.S. Patent No. 10,454,707 (the "'707 Patent") was duly and legally issued on October 22, 2019. Claim 20 of the '707 Patent was upheld by the Patent Trial and Appeal Board of the United States Patent and Trademark Office in an inter partes review proceeding. A true and correct copy of the '707 Patent is attached as Exhibit A.
+7. U.S. Patent No. 11,153,116 (the "116 Patent") was duly and legally issued on October 19, 2021. The '116 Patent is part of the same patent family as the '707 Patent. A true and correct copy of the '116 Patent is attached as Exhibit B.
+8. Success is the assignee of all right, title, and interest in and to the '707 Patent and the '116 Patent (together, the "Patents-in-Suit"). It has the exclusive right to prosecute the present action for infringement of the Patents-in-Suit.
+9. The Patents-in-Suit are valid and enforceable.
+10. The Patents-in-Suit disclose a unique and valuable method, apparatus, and system for retrofitting vehicles. The inventions disclosed in the patents encompass vehicles retrofitted as autonomous vehicle prototypes.
+11. Defendant has been aware of the Patents-in-Suit and its infringement of the Patents- in-Suit since no later than June 16, 2022, when Defendant received a letter from Plaintiff identifying the patents and setting forth its infringement allegations.
+12. The requirements of 35 U.S.C. § 287(a) are satisfied at least because Defendant received actual notice of the Patents-in-Suit and its infringement on June 16, 2022.
+2
+Case 1:22-cv-01105-UNA Document 1 Filed 08/23/22 Page 3 of 10 PageID #: 3
+Count I - Infringement of the '707 Patent
+13. Plaintiff restates and incorporates by reference the foregoing allegations.
+14.
+This case concerns automobiles retrofitted with Defendant's aftermarket driver
+15. The Accused Vehicles meet the limitations of claim 20 of the '707 Patent at least assistance kit ("the Accused Vehicles").
+as follows:
+a. Claim 6, from which claim 20 indirectly depends, describes "[a] vehicle." The Accused Vehicles are vehicles, specifically, automobiles.
+b. The vehicle in claim 6 comprises "a factory-installed first apparatus configured to generate an electrical signal." The Accused Vehicles include such a factory-installed first apparatus, for example, in the form of a radar sensor or an advanced driver assistance system (ADAS) camera.
+C. The vehicle in claim 6 further comprises "a factory-installed second apparatus configured to receive the electrical signal." The Accused Vehicles include this second apparatus, for example, in the form of a power steering control module or a powertrain control module.
+d. The vehicle in claim 6 further comprises "a retrofit apparatus electrically connected to the factory-installed second apparatus." In the Accused Vehicles, this retrofit apparatus includes, for example, a "Comma 2" or "Comma 3" module and other components (collectively referred to as the "comma.ai devkit" or "devkits") that are electrically connected to the factory-installed second apparatus.
+e. Claim 6 requires that "the retrofit apparatus generates a mimicked electrical signal independently of the electrical signal generated by the factory-installed first apparatus." In
+3
+Case 1:22-cv-01105-UNA Document 1 Filed 08/23/22 Page 4 of 10 PageID #: 4
+the Accused Vehicles, the comma.ai devkit generates mimicked electrical signals in the form of CAN messages. These CAN messages include, for example, control messages that mimic CAN messages related to the vehicle's "Adaptive Cruise Control" and "Automated Lane Centering (ALC)." For example, the mimicked CAN messages include a vehicle acceleration CAN message or equivalent message. The mimicked CAN messages are generated independently of the CAN messages generated by the factory-installed first apparatus, i.e., independently of signals generated by the vehicle's original hardware.
+f. Claim 6 requires that the "factory-installed second apparatus receives the mimicked electrical signal." In the Accused Vehicles, the factory-installed second apparatus, e.g., the power steering control module or the powertrain control module, receives the mimicked signals generated by the comma.ai devkit.
+g. Claim 18, from which claim 20 indirectly depends, requires that "the retrofit apparatus includes an electronically controlled switch to selectively separate a direct electrical connection between the factory-installed first apparatus and the factory-installed second apparatus." Claim 19, from which claim 20 depends, further defines this electronically controlled switch to be a relay. In the Accused Vehicles, the comma.ai devkit includes a relay. h. Claim 20 requires that "the relay is selectively controlled in response to a presence of an electrical failure." In the Accused Vehicles, the comma.ai devkit is programmed to control the relay in response to recognizing, for example, a loss of communication between components within the Comma 2 / Comma 3 module.
+16. Defendant has directly infringed and, on information and belief, is now directly infringing, literally or under the doctrine of equivalents, claim 20 of the '707 Patent by making,
+4
+Case 1:22-cv-01105-UNA Document 1 Filed 08/23/22 Page 5 of 10 PageID #: 5
+using, offering to sell, or selling in the United States, or importing into the United States, one or more Accused Vehicles.
+17. Further, on information and belief, Defendant has induced infringement and is now inducing infringement of claim 20 of the '707 Patent.
+18. More specifically, at least since June 16, 2022, Defendant has been aware of the '707 Patent and has known that making or using Accused Vehicles infringes claim 20 of the '707 Patent.
+19. Defendant actively encourages infringement by selling comma.ai devkits to others with instructions for installing and using them in automobiles and publishing online instructions and video tutorials showing how to install and use comma.ai devkits in automobiles.
+20. On information and belief, customers have used Defendant's instructions to make and use Accused Vehicles as a result of Defendant's acts of inducement.
+21. Further, on information and belief, Defendant has contributorily infringed and is now contributorily infringing claim 20 of the '707 Patent.
+22. More specifically, at least since June 16, 2022, Defendant has been aware of the '707 Patent and has known that making or using Accused Vehicles infringes claim 20 of the '707 Patent.
+23. On information and belief, customers have since that time purchased devkits, have used them to make Accused Vehicles, and have used the Accused Vehicles they made.
+24. The devkit is a material part of the Accused Vehicles and has no substantial non-
+infringing uses.
+25. As a result of Defendant's infringement of the '707 Patent, Plaintiff has suffered damages.
+5
+Case 1:22-cv-01105-UNA Document 1 Filed 08/23/22 Page 6 of 10 PageID #: 6
+26. Defendant sells Accused Vehicles and/or devkits used to make Accused Vehicles.
+27. Further, comma.ai collects data from Accused Vehicles and sells or offers to sell such data to third parties.
+28. On information and belief, Defendant earns substantial sums from such sales.
+29. Plaintiff is entitled to a money judgment in an amount adequate to compensate for Defendant's infringement since it first had notice of the '707 Patent, but in no event less than a reasonable royalty, together with interest and costs as fixed by the court.
+30. Furthermore, despite Defendant's knowledge of the '707 Patent and its infringement, Defendant has, on information and belief, continued to infringe the '707 Patent.
+31. Accordingly, on information and belief, Defendant's infringement has been and is willful, thus entitling Plaintiff to enhanced (treble) damages.
+Count II - Infringement of the '116 Patent
+1
+32. Plaintiff restates and incorporates by reference the foregoing allegations.
+33. As noted above, the Accused Vehicles incorporate comma.ai's devkits, including the comma three devkit (the "Accused Kits").
+34. The Accused Kits meet the limitation of claim 1 of the '116 Patent at least as follows:
+a. Claim 1 describes "[a] retrofit apparatus for installation in an existing vehicle." Defendant's devkits are aftermarket driver assistance kits ("retrofit apparatuses") that are installed in existing vehicles.
+b. The apparatus in claim 1 comprises "a control processor." The Accused Kit includes a module with a STM32H725 control processor.
+6
+Case 1:22-cv-01105-UNA Document 1 Filed 08/23/22 Page 7 of 10 PageID #: 7
+c. The apparatus in claim 1 further comprises "a first vehicle data bus terminal for electrically connecting the retrofit apparatus to a first factory-installed apparatus." The Accused Kit includes a connector with terminals, including a first vehicle data bus terminal for electrically connecting the comma three devkit to the vehicle's factory-installed power steering control module or powertrain control module (the "first factory-installed apparatus").
+d. The apparatus in claim 1 further comprises "a second vehicle data bus terminal for electrically connecting the retrofit apparatus to a second factory-installed apparatus." The Accused Kit includes a connector that has a second vehicle data bus terminal for electrically connecting the devkit to a factory-installed camera and/or radar sensor (the "second factory- installed apparatus").
+e. . The apparatus in claim 1 further comprises "an electromechanical relay operatively connected to and controlled by the control processor, the relay being configured to selectively connect the first vehicle data bus terminal to the second vehicle data bus terminal." The Accused Kit includes an electromechanical relay operatively connected to and controlled by the STM32H725 control processor. The relay is configured to selectively connect the first vehicle data bus terminal to the second vehicle data bus terminal in response to certain occurrences.
+f. Claim 1 requires that "an original data bus message originating in the second factory-installed apparatus reaches the first factory-installed apparatus when the relay connects the first vehicle data bus terminal to the second vehicle data bus terminal." In "passthrough mode," the relay in the Accused Kit directly connects the vehicle's factory-installed power steering control module or powertrain control module (the "first factory-installed apparatus") to the vehicle's factory-installed camera and/or radar sensor (the "second factory- installed apparatus"). In passthrough mode, an original data bus message originating in the factory-
+7
+Case 1:22-cv-01105-UNA Document 1 Filed 08/23/22 Page 8 of 10 PageID #: 8
+installed camera and/or radar sensor reaches the factory-installed power steering control module or powertrain control module.
+g Claim 1 requires that "the original data bus message originating in the second factory-installed apparatus does not reach the first factory-installed apparatus when the relay disconnects the first vehicle data bus terminal from the second vehicle data bus terminal." When the Accused Kit operates with its OpenPilot feature active, the relay directly disconnects the vehicle's factory-installed power steering control module or powertrain control module (the "first factory-installed apparatus") from the vehicle's factory-installed camera and/or radar sensor (the "second factory-installed apparatus"). When OpenPilot is active, an original data bus message originating in the factory-installed camera and/or radar sensor does not reach the factory-installed power steering control module or powertrain control module.
+h Claim 1 requires that "the retrofit apparatus transmits a mimicked data bus message to the first factory-installed apparatus." When OpenPilot is active, the Accused Kit transmits mimicked data bus messages to the factory-installed power steering control module or powertrain control module (the "first factory-installed apparatus"). For example, the mimicked data bus messages include a vehicle acceleration CAN message or equivalent message.
+35. Defendant has directly infringed and, on information and belief, is now directly infringing, literally or under the doctrine of equivalents, at least claim 1 of the '116 Patent by making, using, offering to sell, or selling in the United States, or importing into the United States, one or more Accused Kits.
+36. As a result of Defendant's infringement of the '116 Patent, Plaintiff has suffered damages.
+37. Defendant sells Accused Kits and/or vehicles incorporating Accused Kits.
+8
+Case 1:22-cv-01105-UNA Document 1 Filed 08/23/22 Page 9 of 10 PageID #: 9
+38. Further, comma.ai collects data from Accused Kits and sells or offers to sell such data to third parties.
+39. On information and belief, Defendant earns substantial sums from such sales.
+40. Plaintiff is entitled to a money judgment in an amount adequate to compensate for Defendant's infringement since it first had notice of the '116 Patent, but in no event less than a reasonable royalty, together with interest and costs as fixed by the court.
+41. Furthermore, despite Defendant's knowledge of the '116 Patent and its infringement, Defendant has, on information and belief, continued to infringe the '116 Patent.
+42. Accordingly, on information and belief, Defendant's infringement has been and is willful, thus entitling Plaintiff to enhanced (treble) damages.
+JURY DEMAND
+Plaintiff demands a trial by jury on all issues so triable.
+PRAYER FOR RELIEF
+Plaintiff Success LLC respectfully requests that the Court rule in its favor and against Defendant comma.ai, Inc., and that the Court grant Plaintiff the following relief:
+A. an adjudication that Defendant has infringed the '707 and '116 Patents;
+B. an award of damages to be paid by Defendant adequate to compensate Plaintiff for Defendant's past infringement of the '707 and '116 Patents and any continuing infringement through the date such judgment is entered, including pre-judgment and post-judgment interest, costs, expenses, and an accounting of all infringing acts;
+C. an order requiring Defendant to pay a royalty for any continued infringement after the date judgment is entered;
+D. an award of treble damages under 35 U.S.C. § 284;
+9
+Case 1:22-cv-01105-UNA Document 1 Filed 08/23/22 Page 10 of 10 PageID #: 10
+E. any injunctive relief to which Plaintiff may be entitled; and
+F. any and all such further relief at law or in equity that the Court may deem just and
+proper, including but not limited to attorneys' fees.
+Dated: August 23, 2022
+Of Counsel: Maxwell Goss Fishman Stewart PLLC 800 Tower Dr., Suite 610 Troy, Michigan 48098 Office: (248) 594-0604 mgoss@fishstewip.com
+Respectfully submitted,
+/s/ George Pazuniak George Pazuniak (DE Bar 478) O'Kelly & O'Rourke, LLC 824 N. Market St., Suite 1001A Wilmington, DE 19801 D: 207-359-8576 Email: GP@del-iplaw.com
+Attorneys for Plaintiff
+10
+Case 1:22-cv-01105-UNA Document 1-1puffing
+(12) United States Patent Nix
+(54) METHOD, APPARATUS AND SYSTEM FOR RETROFITTING A VEHICLE
+(71) Applicant: Sucxess LLC, Birmingam, MI (US)
+(72) Inventor: Axel Nix, Birmingham, MI (US)
+(73) Assignee: Sucxess LLC, Birmingham, MI (US)
+(*) Notice: Subject to any disclaimer, the term of this patent is extended or adjusted under 35 U.S.C. 154(b) by 0 days. 21/01
+(21) Appl. No .: 16/025,314
+(22) Filed: Jul. 2, 2018 (65) Prior Publication Data
+US 2018/0309591 A1 Oct. 25, 2018
+Related U.S. Application Data
+(63) Continuation of application No. 15/442,640, filed on Feb. 25, 2017, now Pat. No. 10,027,505, which is a continuation of application No. 14/846,811, filed on Sep. 6, 2015, now Pat. No. 9,661,664, which is a continuation of application No. 11/742,574, filed on Apr. 30, 2007, now Pat. No. 9,161,195.
+(51) Int. Cl. H04L 12/40 (2006.01) H04W 4/90 (2018.01) H04W 76/50 (2018.01) H04B 1/3822 (2015.01) B60R 21/01 (2006.01) B60T 7/12 (2006.01) G06F 13/42 (2006.01) B60R 21/00 (2006.01)
+114
+7.45:
+US010454707B2
+(10) Patent No .:
+(45) Date of Patent:
+Oct. 22, 2019
+US 10,454,707 B2
+(52) U.S. Cl.
+CPC
+H04L 12/40169 (2013.01); B60R 21/01 (2013.01); B60T 7/12 (2013.01); G06F 13/4282 (2013.01); H04B 1/3822 (2013.01); H04L 12/40 (2013.01); H04W 4/90 (2018.02); H04W 76/50 (2018.02); B60R 2021/0027 (2013.01); H04L 2012/40215 (2013.01); H04L 2012/40273 (2013.01)
+(58) Field of Classification Search CPC ..... HO4L 12/40169; H04L 2012/40215; H04L 12/40; H04L 2012/40273; G06F 13/4282; H04W 76/50; HO4W 4/90; B60T 7/12; H04B 1/3822; B60R 2021/0027; B60R
+See application file for complete search history.
+(56) References Cited
+U.S. PATENT DOCUMENTS
+2009/0030561
+1/2009 Gurieff B60T 8/1755
+701/1
+* cited by examiner
+Primary Examiner - Congvan Tran (74) Attorney, Agent, or Firm -Smartpat PLC
+(57)
+ABSTRACT
+A system, apparatus, and method for retrofitting a vehicle are presented. The method relates to a vehicle with a factory-installed first apparatus which communicates with a factory-installed second apparatus through a vehicle data bus using a first message. The method includes electrically disconnecting the vehicle data bus between the first appa- ratus and the second apparatus and electrically connecting a retrofit apparatus to the vehicle data bus. The method further includes transmitting a second message from the retrofit apparatus to the first apparatus which is indistinguishable from the first message.
+20 Claims, 7 Drawing Sheets
+112
+110
+100
+102
+108
+SERVICE CENTER
+PSTN
+PSAP
+1
+104
+106
+Exhibit A
+Case 1:22-cv-01105-UNA Document 1-1 Filed 08/23/22 Page 2 of 14 PageID #: 12
+U.S. Patent
+Oct. 22, 2019
+Sheet 1 of 7
+US 10,454,707 B2
+114
+112
+110
+108
+(O))
+SERVICE CENTER
+PSTN
+PSAP
+100
+102
+104
+FIG. 1
+106
+208
+5
+BUTTONS
+210
+STATUS INDICATORS
+202
+1
+MIC
+SPEAKER
+200
+1
+TELECOMMUNICATION APPARATUS
+206
+ANTENNA
+204
+VEHICLE DATA BUS
+218
+NAVIGATION SYSTEM
+1 2
+220
+3
+4
+222
+5
+6
+7
+8
+*
+O
+#
+EMERGENCY CALL APPARATUS
+212
+214~
+216
+BUTTONS
+FIG. 2A
+Case 1:22-cv-01105-UNA Document 1-1 Filed 08/23/22 Page 3 of 14 PageID #: 13
+U.S. Patent
+Oct. 22, 2019
+Sheet 2 of 7
+US 10,454,707 B2
+BEFORE RETROFIT
+208
+2
+BUTTONS
+200
+108
+TELECOMMUNICATION APPARATUS
+SERVICE CENTER
+212
+VEHICLE DATA BUS
+FIG. 2B (PRIOR ART)
+AFTER RETROFIT
+208
+2
+BUTTONS
+214
+200
+106
+~
+EMERGENCY
+CALL APPARATUS
+TELECOMMUNICATION APPARATUS
+PSAP
+212
+VEHICLE
+DATA BUS
+FIG. 2C
+Case 1:22-cv-01105-UNA Document 1-1 Filed 08/23/22 Page 4 of 14 PageID #: 14
+U.S. Patent
+Oct. 22, 2019
+Sheet 3 of 7
+300
+212
+302
+2
+AIRBAG CONTROL APPARATUS
+US 10,454,707 B2
+200
+5
+TELECOMMUNICATION APPARATUS
+214
+2
+EMERGENCY CALL APPARATUS
+218 2
+NAVIGATION SYSTEM
+400
+302
+AIRBAG CONTROL APPARATUS
+VEHICLE DATA BUS
+FIG. 3
+212
+214
+2
+EMERGENCY CALL APPARATUS
+218
+2
+200
+2
+TELECOMMUNICATION APPARATUS
+NAVIGATION SYSTEM
+VEHICLE DATA BUS
+FIG. 4
+Case 1:22-cv-01105-UNA Document 1-1 Filed 08/23/22 Page 5 of 14 PageID #: 15
+U.S. Patent
+Oct. 22, 2019
+Sheet 4 of 7
+214
+500
+PUSH BUTTON SWITCH
+POWER SUPPLY
+CONTROL PROCESSOR
+VEHICLE DATA BUS INTERFACE
+mo
+216
+504
+FIG. 5
+610
+,506
+500
+POWER SUPPLY
+PUSH BUTTON SWITCH
+CONTROL PROCESSOR
+VEHICLE DATA BUS INTERFACE
+US 10,454,707 B2
+506
+512
+BATT
+GND
+- 510
+BUS
+508
+O
+NETWORK TERMINATION
+216
+504
+604
+FIG. 6
+710
+500
+CONTROL PROCESSOR
+512
+1 BATT
+GND
+510
+-BUS1
+600 1
+-BUS2
+606
+608
+602
+506
+POWER SUPPLY
+PUSH BUTTON SWITCH
+,512
+BAT
+T
+GND - 510
+VEHICLE DATA BUS INTERFACE
+BUS1 ~~ 600
+216
+VEHICLE DATA BUS INTERFACE
+700
+FIG. 7
+BUS2 ~602
+504
+Case 1:22-cv-01105-UNA Document 1-1 Filed 08/23/22 Page 6 of 14 PageID #: 16
+U.S. Patent
+Oct. 22, 2019
+Sheet 5 of 7
+US 10,454,707 B2
+800
+START
+802
+TRIGGER CONDITION DETECTED?
+NO
+EXIT
+YES
+804
+SEND DIAL COMMAND TO TELECOMMUNICATION APPARATUS
+EXIT
+FIG. 8
+Case 1:22-cv-01105-UNA Document 1-1 Filed 08/23/22 Page 7 of 14 PageID #: 17
+U.S. Patent Oct. 22, 2019
+Sheet 6 of 7
+US 10,454,707 B2
+900
+START
+802
+TRIGGER CONDITION DETECTED?
+NO
+EXIT
+YES 902
+DISPLAY EMERGENCY SCREEN
+EMERGENCY CALL REQUESTED?
+NO 904
+EXIT
+YES
+804
+SEND DIAL COMMAND TO TELECOMMUNICATION APPARATUS
+EXIT
+FIG. 9
+Case 1:22-cv-01105-UNA Document 1-1 Filed 08/23/22 Page 8 of 14 PageID #: 18
+U.S. Patent
+Oct. 22, 2019
+Sheet 7 of 7
+US 10,454,707 B2
+1000
+-
+CRASH DETECTED
+1002
+CALL 911
+CALL ONSTAR
+1004
+FIG. 10
+Case 1:22-cv-01105-UNA Document 1-1 Filed 08/23/22 Page 9 of 14 PageID #: 19
+US 10,454,707 B2
+1 METHOD, APPARATUS AND SYSTEM FOR RETROFITTING A VEHICLE TECHNICAL FIELD The present disclosure relates to a method, apparatus and system for retrofitting a vehicle.
+2 an emergency frequently cause the voice recognition engine to fail detecting a spoken "dial 9-1-1" command and thereby preclude the operator from receiving the help he is seeking. What is therefore needed is a method for combining the 5 benefits of legally mandated free wireless 911 access to a Public Safety Answering Point with the advantageous single button user interface for placing emergency calls to a mobile application service center.
+BACKGROUND OF THE INVENTION
+10 SUMMARY OF THE INVENTION
+Being able to easily alert emergency responders in case of an automobile accident is highly desirable. Mobile applica- In one aspect of the present invention an integrated vehicle communication system includes a telecommunica- tion apparatus in communication with a vehicle data bus. An tion service providers (such as OnStar®) address this need for their subscribers by offering an emergency call button located within reach of the driver of an automobile. Upon 15 emergency call apparatus is also in communication with the pressing the emergency call button an emergency telephone call is placed from a cellular telephone which is embedded in the vehicle through a wireless telecommunication net- work and a public switched telephone network to a service center operated by the mobile application service provider. 20 pressed the emergency call apparatus transmits a telephone
+vehicle data bus, the emergency call apparatus further pro- viding an emergency call push button switch to initiate an emergency telephone call to a Public Safety Answering Point. When the emergency call push button switch is dial command message including a telephone number to be dialed on the vehicle data bus. The telecommunication apparatus is configured to receive the telephone dial com- mand and establish communication with the requested tele- Safety Answering Point in the United States the emergency call apparatus may e.g. transmit a telephone dial command message requesting the telecommunication apparatus to dial "911".
+An emergency call to the service provider may also be initiated automatically, e.g. upon airbag deployment.
+In case of an incoming emergency call the mobile appli- cation service center silently obtains vehicle position infor- mation, e.g. information from a GPS receiver that is also 25 phone number. To initiate an emergency call to a Public embedded in the vehicle. The mobile application service center as part of an emergency assistance service informs public safety authorities of the emergency and conveys the vehicle's position. The emergency assistance service is typically available only to those who register (for a fee) with 30 In a further aspect the emergency call apparatus may include an input for an external switch. In this aspect the emergency call push button switch may be remote from the emergency call apparatus and may e.g. be located within reach of the driver of the vehicle whereas the emergency call the mobile application service provider. Registration with the mobile application service providers includes an under- lying registration with the wireless telecommunication net- work. Several elements of one such system are described in U.S. Pat. No. 6,812,832 (Lobaza), which is hereby incor- 35 apparatus may be located somewhere else hidden in the porated by reference.
+The embedded cellular telephone may also be used to place hands free telephone calls. Dialing the embedded cellular telephone may utilize a speech recognition engine that is capable of recognizing spoken telephone numbers or 40 telecommunication apparatus and an emergency call push voice tags associated with telephone numbers. To facilitate dialing the embedded cellular telephone may also be con- button switch connected thereto. Before the retrofit pressing the emergency call button is detected by the telecommuni- cation apparatus which responsive to the button press initi- ates an emergency call to a mobile application service nected to an external keypad, e.g. a telephone-style keypad located in the vehicle's dashboard or a virtual keypad displayed on a touch screen display. The external keypad 45 center. may communicate with the embedded cellular telephone by During the retrofit an emergency call apparatus is added to the vehicle. The electrical connection between the emer- gency call push button switch and the telecommunication apparatus is separated and the emergency call push button sending a telephone dial command message through the vehicle communication network. The embedded cellular telephone is accordingly configured to receive telephone dial command messages on the vehicle communication network 50 switch is rewired and connected to the emergency call and establish a telephone call to the requested telephone number. apparatus.
+vehicle.
+In another aspect the emergency call apparatus may be added to the vehicle during a retrofit. In this aspect the vehicle may be originally equipped with an embedded
+US law obligates commercial mobile radio service pro- viders to transmit all wireless 911 emergency calls without Answering Point (PSAP), or, where no Public Safety Answering Point has been designated, to a designated state- wide default answering point or appropriate local emergency authority. The law extends to voice capable cellular tele- phones embedded in vehicles. An embedded cellular tele- 60 Answering Point.
+After the retrofit pressing the emergency call push button is detected by the emergency call apparatus which respon- sive to the button press transmits a telephone dial command
+respect to their call validation process to a Public Safety 55 message on the vehicle data bus. The telephone dial com-
+mand message may request the telecommunication appara- tus to dial the telephone number 911. The telecommunica- tion apparatus responsive to receiving the telephone dial command message establishes a voice call to a Public Safety
+phone can hence be used in an emergency to directly alert In yet another aspect the emergency call apparatus may be configured to detect a trigger condition and responsive thereto request the telecommunication apparatus to establish communication with a Public Safety Answering Point. The button press. As part of an automatic emergency calling system the trigger condition may also be the receipt of one public safety authorities by dialing 911 regardless of regis- tration status with the mobile application service provider or the underlying wireless telecommunication network. How- ever, the user interface provided to dial 911 is inferior to 65 trigger condition may be a manual emergency call push single button activation and may e.g. require use of the voice recognition interface. Changes in an operator's voice during
+Case 1:22-cv-01105-UNA Document 1-1 Filed 08/23/22 Page 10 of 14 PageID #: 20
+US 10,454,707 B2
+3
+4
+or more messages on the vehicle data bus which are reflec- tive of a vehicle accident, e.g. a message signaling airbag deployment. Upon detecting a trigger condition the emer- gency call apparatus may transmit a telephone dial com- mand message on the vehicle data bus requesting the tele- 5 communication apparatus to dial
+FIG. 2B is a block diagram showing aspects of a prior art vehicle communication system for communicating with a mobile application service center before retrofit with an emergency call apparatus.
+911. The telecommunication apparatus responsive to receiving the telephone dial command message establishes a voice call to a Public Safety Answering Point.
+FIG. 2C is a block diagram showing aspects of a vehicle communication system for communicating with a Public Safety Answering Point after retrofit with an emergency call apparatus.
+FIG. 3 is a block diagram illustrating a vehicle commu- 10 nication system showing an airbag control apparatus, a telecommunication apparatus, an emergency call apparatus and a navigation system communicating through a common vehicle data bus.
+In still another aspect the emergency call apparatus may provide an electrically controlled switch to separate the vehicle communication network into two subnets. One sub- net may be used to communicate between the emergency FIG. 4 is a block diagram illustrating an alternative the telecommunication apparatus is connected to the vehicle data bus through the emergency call apparatus. call apparatus and the telecommunication device and the 15 embodiment of a vehicle communication system in which other subnet may be used to communicate between the emergency call apparatus and the rest of the vehicle. This aspect can compensate for possible loss of communication on the vehicle data bus after a vehicle crash, e.g. because a wire within the communication network is shorted to ground 20 communication system configuration as shown in FIG. 3.
+FIG. 5 is a block diagram illustrating an exemplary embodiment of an emergency call apparatus for a vehicle FIG. 6 is a block diagram illustrating an exemplary embodiment of an emergency call apparatus for a vehicle communication system configuration as shown in FIG. 4. FIG. 7 is a block diagram of an alternative embodiment of
+or battery as a result of the crash. The emergency call apparatus may be configured to detect loss of communica- tion and responsive thereto open the electrically controlled switch, thereby dividing the communication network into the two electrically insulated subnets. In result the emer- 25 the emergency call apparatus show in FIG. 6. gency call apparatus separates the damaged portion of the vehicle communication network from its connection to the telecommunication apparatus and thereby regains its ability to communicate with the telecommunication apparatus and initiate an emergency call even though communication with 30 the rest of the vehicle is no longer possible.
+FIG. 8 is a flow diagram illustrating an exemplary method for initiating an emergency call.
+FIG. 9 is a flow diagram illustrating an alternative embodiment of the method shown in FIG. 8.
+In yet another aspect the emergency call apparatus may provide two vehicle data bus interfaces wherein the first interface is used to communicate with the telecommunica- tion apparatus and the second interface is used to commu- nicate with the rest of the vehicle. In this aspect the emergency call apparatus acts as a bi-directional gateway between the two vehicle data bus interfaces. Messages
+FIG. 10 is a schematic diagram of an exemplary touch screen display.
+DETAILED DESCRIPTION
+35
+Referring to FIG. 1, there is shown a vehicle 100 featuring a mobile telecommunication apparatus, suitable for use with an embodiment of the invention, and which may be installed in the vehicle or carried into the vehicle by the subscriber. The mobile telecommunication apparatus communicates
+which the emergency call apparatus receives through the 40 through a wireless network 102, symbolized by a local
+first vehicle data bus interface are retransmitted through the second vehicle data bus interface. Vice versa messages telecommunication antenna tower, with a public switched telephone network (PSTN) 104, to which are also connected telephones 110 and 112. Wireless network 102 may also communicate with other wireless telecommunication received through the second vehicle data bus interface are retransmitted through the first vehicle data bus interface. The two vehicle data bus interfaces are electrically insulated 45 devices, here symbolized by a wireless telephone 114. The from each other such that the emergency call apparatus mobile telecommunication apparatus in vehicle 100, which will be described in more detail with reference to FIG. 2A, may include a cellular telephone or any other wireless device that may be registered with a cellular service provider maintains its ability to communicate with the telecommu- nication apparatus even if communication with the rest of the vehicle can not be established, e.g. because a commu-
+nication bus wire is shorted to ground or battery as may 50 providing general dialing capability in connection with, and happen during an accident.
+The following detailed description of the invention is merely exemplary in nature and is not intended to limit the invention or the application and uses of the invention.
+operation through, PSTN 104. It may also include a cellular telephone or other wireless device that is not or that is no longer registered with a cellular service provider so long as it provides connection with and operation through PSTN
+Furthermore, there is no intention to be bound by any theory 55 104 with a Public Safety Answering Point (PSAP) 106.
+presented in the preceding background of the invention or the following detailed description of the invention.
+DESCRIPTION OF THE DRAWINGS
+The telecommunication apparatus carried in vehicle 100 may have been designed to provide access to mobile appli- cation services of a service provider such as, for example, OnStar®. Mobile application services are typically provided 60 within a subscription business model, which requires pay- ment of a subscription fee per period, e.g. $19.95 per month or $199 per year. The telecommunication apparatus may have been permanently installed in the vehicle at the time of vehicle assembly and the cost of the telecommunication
+FIG. 1 is a schematic diagram of an exemplary wireless and a public switched telecommunication network through which emergency calls can be placed from a vehicle to a service center or Public Safety Answering Point.
+FIG. 2A is a block diagram illustrating the vehicle portion 65 apparatus may have been subsidized by the service provider of a wireless communication system for placing emergency calls used in the vehicle of FIG. 1.
+in anticipation of future subscription revenue if the owner or lessor of vehicle 100 registers for mobile application ser-
+Case 1:22-cv-01105-UNA Document 1-1 Filed 08/23/22 Page 11 of 14 PageID #: 21
+US 10,454,707 B2
+5
+vices. The service provider generally maintains at least one service center 108, which is connected to PSTN 104 and which the subscriber and other subscribers in other vehicles call for the mobile application services. The mobile appli-
+6
+Telecommunication apparatus 200 may provide general dialing capability, e.g. to a telephone 110, 112 within the public switched telephone network 104 or to a wireless telephone 114 through wireless network 102 or any other apparatus 200 may include a voice recognition and activa- tion apparatus, which responds to predetermined spoken data via microphone 202 to perform predetermined func- tions. It accesses a plurality of voice models stored within
+cation services may include, for example, requests for 5 wireless network. To facilitate dialing telecommunication vehicle location, selection of specific points of interest and directions thereto, and emergency assistance (both requested and automatic), as well as others not named.
+If the owner or lessor of vehicle 100 does not register with the service provider, e.g. to avoid the financial burden 10 telecommunication apparatus 200. Each voice model associated with a subscription, the service provider may refuse to provide mobile application services including emergency assistance. The mobile application service pro- vider may also deactivate the telecommunication apparatus
+includes data permitting recognition of a spoken word or phrase. The voice recognition apparatus compares received spoken data with the voice models in order to recognize those words and phrases which are defined and for perform- models represent commands, such as "menu," "store," "dial," "call," etc. Other voice models represent the digits required for telephone dialing: "one," "two," etc. For example, the apparatus may be programmed to recognize the 20 phrase "Dial 9-1-1 Dial" and respond by placing a call to a Public Safety Answering Point. General dialing capability may be initiated by the word "Dial" followed by the number, digit by digit.
+located within vehicle 100. Deactivating the telecommuni- 15 ing predetermined actions in response thereto. Some voice cation apparatus may include deregistering the cellular tele- phone therein from wireless network 102 so that the tele- communication apparatus can no longer gain access to wireless network 102 for general dialing and can thus no longer connect to service center 108.
+Even if the telecommunication apparatus within vehicle 100 has been deactivated and the cellular telephone therein been deregistered from wireless network 102 both can still be used to establish a connection to a Public Safety Answer- a subscription with the service provider or the underlying wireless network 102. This is, especially in the United States, to comply with federal law mandating free access to a PSAP for all devices used to access a commercial mobile radio service (CMRS).
+Telecommunication apparatus 200 may also be config- connected directly to communication apparatus 200 or indi- rectly connected to another module which communicates with telecommunication apparatus 200 through the vehicle data bus 212. In an exemplary embodiment navigation 30 system 218 comprises a touch screen display 220 which displays a virtual telephone keypad 222. An operator may enter a telephone number he wishes to dial on the virtual keypad 222. After the telephone number has been entered navigation system 218 transmits a telephone dial command number to be dialed. Telecommunication apparatus 200 responsive to receiving the telephone dial command mes- sage establishes voice and/or data communication with the desired telephone number.
+ing Point (PSAP). Connecting to a PSAP is independent of 25 ured to allow dialing utilizing a keypad which may be
+Referring now to FIG. 2A there is shown wireless tele- communication apparatus 200 in vehicle 100. The telecom- munication apparatus 200 communicates voice and data through an antenna 206 with wireless network 102 and through wireless network 102 with public switched tele- 35 message on the vehicle data bus 212 including the telephone phone network 104. The telecommunication apparatus 200 may provide "hands-free" voice communication through a microphone 202 and speaker 204. The telecommunication apparatus may include a GPS or similar navigation appara- tus (not shown) which receives signals through a GPS 40 Quicker and easier access to dialing 911 and establishing voice and/or data communication with a Public Safety Answering Point is provided by emergency call apparatus 214, which is connected to vehicle data bus 212 and to one or more buttons 216. Buttons 216 may include an emergency antenna (not shown) from global positioning satellites and derives therefrom position data (e.g., the longitude and latitude and/or the speed and heading) of the apparatus. The telecommunication apparatus 200 may convert the GPS position information into a transmissible form for subse- 45 call push button switch which when pressed causes emer- quent transmission from vehicle 100 to service center 108 or Public Safety Answering Point 106. Communication gency call apparatus 214 to transmit a telephone dial com- mand message including a telephone number to be dialed on vehicle data bus 212. Telecommunication apparatus 200 responsive to receiving the telephone dial command mes- between the telecommunication apparatus 200 and service center 108 or PSAP 106 may be voice communication utilizing microphone 202 and speaker 204 and/or data 50 sage establishes voice communication with the requested communication the data comprising e.g. GPS location infor- mation.
+Connected to the telecommunication apparatus 200 are one or more buttons 208 and status indicator 210. Buttons As is shown in FIG. 2B vehicles equipped with an also equipped with buttons 208, one of which may be an emergency call button to initiate an emergency call to service center 108. Buttons 208 and telecommunication apparatus 200 do not serve any useful purpose if the owner application service provider. The existing buttons 208 and the telecommunication apparatus 200 may however be used when retrofitting vehicle 100 with an emergency call appa- ratus 214 at some time after vehicle built. 208 provide a simple user interface for an operator, e.g. the 55 embedded telecommunication apparatus 200 are typically driver or passenger in vehicle 100, to interact with the telecommunication apparatus 200. The buttons 208 may e.g. include a dedicated emergency call button. If the emergency call button is pressed telecommunication apparatus 200 establishes voice and/or data communication with service 60 or lessor of vehicle 100 does not register with the mobile center 108. Status indicator 210, which may e.g. be one or more light emitting diodes or any other form of display, provides feedback to the vehicle operator as to the status of the telecommunication apparatus 200. Telecommunication apparatus 200 is also connected to vehicle data bus 212 to 65 An exemplary method of retrofitting vehicle 100 is show in FIG. 2C. Vehicle 100 is retrofitted by adding emergency call apparatus 214. The electrical connection between but- exchange messages with other electronic modules within vehicle 100 as required.
+telephone number, e.g. 911. Emergency call apparatus 214 and its operation are described in more detail with reference to FIGS. 5 through 9 below.
+Case 1:22-cv-01105-UNA Document 1-1 Filed 08/23/22 Page 12 of 14 PageID #: 22
+US 10,454,707 B2
+7
+8
+tons 208 and telecommunication apparatus 200 is removed and instead buttons 208 are rewired and connected to emergency call apparatus 214. Optionally the vehicle data bus connection between telecommunication apparatus 200 and vehicle data bus 212 may be disconnected and instead 5 vehicle data bus 212 indirectly through emergency call re-routed into the emergency call apparatus 214. A new connection is made between the emergency call apparatus 214 and vehicle data bus 212. Further, emergency call apparatus 214 is connected to vehicle battery and vehicle ground to power emergency call apparatus 214.
+FIG. 6 is an alternative embodiment showing an emer- gency call apparatus 610 which may be used in the vehicle communication system 400 shown in FIG. 4. In this example the telecommunication apparatus 200 is connected to the
+apparatus 610. Electrical terminal 600 connects the emer- gency call apparatus 610 to the telecommunication commu- nication apparatus 200. Electrical terminal 602 connects the emergency call apparatus 610 to vehicle data bus 212 and 10 through that to all other electronic modules communicating through vehicle data bus 212. Control processor 500 elec- tronically controls switch 606, which may e.g. be an elec- tromechanical relay with coil 604, or any other suitable switching device. Switch 606 is normally closed, creating a case of a crash the vehicle communication system 400 may be damaged, e.g. may deformation to the vehicle's sheet metal have caused a wire of vehicle data bus 212 to be shortened to vehicle ground or battery, making communi- 500 is configured to detect such damage to the communi- cation system by monitoring its vehicle data bus interface 504. If damage to the communication system is detected control processor 500 restores communication with the 25 telecommunication device 200 by opening switch 606 and thereby disconnecting the damaged part of the vehicle communication system 400 from vehicle data bus interface 504. In its open position switch 606 may cause vehicle data bus interface 504 to be connected to a network termination ent in the now disconnected vehicle communication system. Network termination may consist of a pull-up or pull-down resistor or any other electronic circuit known in the art of electronic communication for terminating communication
+To enable the rewiring of buttons 208 the electrical interface between buttons 216 and emergency call apparatus 214 may be identical to the electrical interface between buttons 208 and telecommunication apparatus 200. Using an 15 short circuit between electrical terminals 600 and 602. In identical interface, e.g. the same resistor values in case of resistor coded switches, provides that an emergency call button 208 which is connected to and used in combination with telecommunication apparatus 200 before the retrofit can be rewired and used in combination with emergency call 20 cation on vehicle data bus 212 impossible. Control processor apparatus 214 after the retrofit. This simplifies the process of retrofitting vehicle 100 which may have originally been equipped with telecommunication apparatus 200 and but- tons 208 but not emergency call apparatus 214 and buttons 216.
+Referring now to FIG. 3, there is shown a block diagram illustrating an exemplary vehicle communication system 300 including the telecommunication apparatus 200, an airbag control apparatus 302, the emergency call apparatus 214 and the navigation system 218. As is shown, each 30 element 608, simulating a network termination usually pres- system is in communication with the vehicle's data bus 212, which may be a Class 2 or CAN vehicle data bus or any other suitable bus known in the art for electronic data communication.
+FIG. 4 illustrates an alternative embodiment of the vehicle 35 networks. communication system 400. In this embodiment telecom- munication apparatus 200 is in communication with vehicle data bus 212 using an indirect connection made trough emergency call apparatus 214, as will be explained in more detail with respect to FIG. 6 and FIG. 7.
+FIG. 7 shows another alternative embodiment of emer- gency call apparatus 710. In this example control processor 500 communicates with telecommunication apparatus 200 through vehicle data bus interface 504 and electrical termi- 40 nal 600. It is also communicates with other electronic modules connected to the vehicle data bus 212 through a second vehicle data bus interface 700 and electrical terminal 602. Vehicle data bus interface 504 and vehicle data bus 700 are electrically insulated from each other so that damage to
+FIG. 5 is a block diagram illustrating an exemplary emergency call apparatus 214. Control processor 500, which may take the form of a programmed digital computer or a custom digital processor, is operatively connected to push button switch 216. Push button switch 216 may be an 45 the vehicle data bus 212 does not affect the ability of control emergency call button located within easy reach of the driver and labeled prominently, e.g. with a Red Cross icon or the processor 500 to communicate with the telecommunication device 200 through vehicle data bus interface 504. During normal operation control processor 500 is configured to act as bidirectional gateway between vehicle data bus interface letters "SOS". Push button switch 216 is designed to be easily found and operated by the driver or passenger of
+vehicle 100 even under stress. Push button switch 216 may 50 504 and vehicle data bus 700. Control processor 500 re- be any suitable device that translates a human operator's intention into a signal that can be detected by control transmits any messages it receives from vehicle data bus interface 504 through vehicle data bus interface 700 and any messages it receives from vehicle data bus interface 700 through vehicle data bus interface 504, thereby functionally data bus 212. processor 500, including e.g. a momentary push button switch, a toggle switch, a rocker switch, a rotary switch or a virtual button on a touch screen display. Control processor 55 connecting telecommunication apparatus 200 with vehicle 500 is connected to the vehicle data bus 212 through a vehicle data bus interface 504 using an electrical terminal FIG. 8 is a flow diagram illustrating an exemplary method 800 that may be implemented in process controller 500. Process controller 500 is configured to detect a trigger manual operator request to initiate an emergency call, e.g. by pressing emergency call push button switch 216. The trigger condition may also be the receipt of a predetermined mes- sage or a combination of predetermined messages on vehicle 508. Control processor 500 and vehicle data bus interface 504 are powered by power supply 506. Power supply 506 is connected to the vehicle's power distribution system 60 condition in block 802. The trigger condition may be a through vehicle battery terminal 512 and vehicle ground terminal 510. While emergency call apparatus 214 is shown as a stand alone unit it should be appreciated that it may also be integrated within another electronic control module in which case control processor 500, power supply 506 and 65 data bus 212. The predetermined message or messages may vehicle data bus interface 504 may be shared with other e.g. reflect that the airbag control apparatus 302 has inflated an airbag in vehicle 100. Other suitable messages that may functions.
+Case 1:22-cv-01105-UNA Document 1-1 Filed 08/23/22 Page 13 of 14 PageID #: 23
+US 10,454,707 B2
+9
+act as a trigger for automatic emergency calling include a message from an object detection apparatus indicating that vehicle 100 was involved in a collision, a message indicating vehicle deceleration above a predetermined threshold or any other message or combination of messages which indicate 5 that vehicle 100 was involved in a severe accident which may have caused the occupants within vehicle 100 to be injured and no longer be able to manually initiate an emergency call.
+10 are configured to respond to predetermined messages which are distinguished from other messages by their identifier segments.
+TABLE 1
+Identifier Segment 11 bit or 29 bit
+Data Segment 0 to 8 bytes
+Example 0x0CF00400 39 31 31 23 FF FF FF FF
+If the trigger condition in block 802 is detected then in 10 step 804 process controller 500 sends a telephone dial command message to the telecommunication apparatus 200. To avoid the unlikely but possible collision of two tele- phone dial command messages issued simultaneously by both the navigation system 218 and the emergency call apparatus 214 the emergency call apparatus 214 may in a vehicle communication system configuration 400 actively prevent such collision. Accordingly control processor 500 in an embodiment as shown in FIG. 6 may in a first step open switch 606 so that the navigation system 218 is no longer The telephone dial command consists of or is part of a predetermined message on the vehicle data bus containing a telephone number to be dialed. Telecommunication appara- 15 tus 200 is configured to receive the telephone dial command and responsive thereto establish voice and/or data commu- nication through wireless network 102 and PSTN 104 with the desired telephone number. For emergency use in the United States the telephone number requested in step 804 20 connected to the telecommunication apparatus 200 before will typically be "911" to establish communication with a PSAP.
+As described earlier with respect to FIG. 2B and FIG. 2C emergency call apparatus 214 may be retrofitted into a
+control processor 500 in a second step transmits its tele- phone dial command message to the telecommunication apparatus 200. Control processor 500 in an embodiment as shown in FIG. 7 may selectively suppress forwarding a tem 218 through vehicle data bus interface 700 while transmitting its own telephone dial command through vehicle data bus interface 504.
+vehicle 100 at some time after the vehicle has been built. In 25 telephone dial command received from the navigation sys-
+case of a retrofit telecommunication apparatus 200 may not haven been designed for use with the emergency call appa- ratus 214. In particular, telecommunication apparatus 200 may not have been configured to receive a telephone dial FIG. 9 is a flow diagram showing an alternative exem- embodiment is suitable for example for vehicles in which the emergency call apparatus 214 is integrated with the navigation system 218 and where the navigation system 218 is connected to a display. If in step 802 a trigger condition, command message on vehicle data bus 212 that is originat- 30 plary embodiment of the method illustrated in FIG. 8. This ing from emergency call apparatus 214. Telecommunication apparatus 200 may however have been configured to receive telephone dial command messages on vehicle data bus 212 that are originating from other devices, for example navi- gation system 218. To operate under these circumstances 35 e.g. an airbag deployment, is detected the emergency call emergency call apparatus 214 may be configured to mimic apparatus displays or causes to be displayed an emergency screen 1000 comprising a prominent user interface to acti- vate an emergency call. If in step 904 an emergency call is requested the emergency call apparatus in step 804 sends a the telephone dial command message originating e.g. from navigation system 218. To mimic the dial command message emergency call apparatus 214 uses the same message iden- tifier segment that has been assigned to navigation system 40 telephone dial command to telecommunication apparatus 218 when transmitting its telephone dial command message. 200. By sharing the same message identifier segment a telephone Finally, an exemplary emergency screen 1000 as may e.g. be used within a touch screen navigation display is shown in FIG. 10. Emergency screen 1000 comprises virtual button center 108. dial command message originating from emergency call apparatus 214 and a telephone dial command message originating from navigation system 218 become indistin- 45 1002 to call PSAP 106 and virtual button 1004 to call service guishable for the telecommunication apparatus 200. Tele- communication apparatus 200 hence responds properly to a While the invention has been described with reference to a preferred embodiment(s), it will be understood by those skilled in the art that various changes may be made and telephone dial command message originating from emer- gency call apparatus 214 even though it may not have been designed for this purpose. While emergency call apparatus 50 equivalents may be substituted for elements thereof without 214 shares the same message identifier segment with navi- departing from the scope of the invention. In addition, many modifications may be made to adapt a particular situation or material to the teachings of the invention without departing from the essential scope thereof. Therefore, it is intended gation system 218 it should be understood that vehicle 100 need not necessarily be equipped with navigation system 218. It is sufficient if telecommunication apparatus 200 is configured to respond to telephone dial command messages 55 that the invention not be limited to the particular embodi- on the vehicle data 212 bus irrespective of whether the potential transmitter of such a message is actually present in the vehicle.
+Table 1 illustrates the structure of an exemplary vehicle data bus message. As illustrated the message consist of an 60 identifier segment, which in case of CAN messages may e.g. be 11 or 29 bits long, and a data segment carrying the message payload, which may be up to 8 bytes long. To avoid message collision vehicle communication networks usually use unique identifier segments for each transmitting module, 65 if the same message is originating from more than one module. Modules connected to the communication network
+ment disclosed as the best mode contemplated for carrying out this invention, but that the invention will include all embodiments falling within the scope of the appended claims.
+What is claimed is: 1. A method, comprising:
+providing a vehicle having a factory-installed first appa- ratus electrically connected to a factory-installed sec- ond apparatus, the factory-installed second apparatus being configured to receive an electrical signal from the factory-installed first apparatus;
+Case 1:22-cv-01105-UNA Document 1-1 Filed 08/23/22 Page 14 of 14 PageID #: 24
+US 10,454,707 B2
+11
+electrically disconnecting the factory-installed first appa- ratus from the factory-installed second apparatus; electrically connecting a retrofit apparatus to the factory- installed first apparatus and to the factory-installed second apparatus; generating a mimicked electrical signal in the retrofit apparatus independently of the electrical signal from the factory-installed first apparatus; and receiving the mimicked electrical signal in the factory- installed second apparatus.
+12
+8. The vehicle as in claim 6, wherein the factory-installed second apparatus responds to the mimicked electrical signal generated by the retrofit apparatus as if it were the electrical signal generated by the factory-installed first apparatus.
+5 9. The vehicle as in claim 6, wherein a direct electrical connection between the factory-installed first apparatus and the factory-installed second apparatus has been separated.
+10. The vehicle as in claim 6, wherein the retrofit appa- ratus generates the mimicked electrical signal in response to an external input.
+10
+11. The vehicle as in claim 6, wherein the electrical signal is a variable resistance.
+12. The vehicle as in claim 6, wherein the factory- installed first apparatus provides a user interface for a human driver of the vehicle.
+2. The method as in claim 1, wherein the factory-installed first apparatus is a device which converts a human operator's input into the electrical signal.
+3. The method as in claim 1, further comprising receiving an external input in the retrofit apparatus inde- pendently of receiving the electrical signal from the factory-installed first apparatus,
+wherein generating the mimicked electrical signal is ini- tiated in response to the external input. 4. The method as in claim 1, wherein the electrical signal is a variable resistance.
+5. The vehicle that has been retrofitted according to the method as in claim 1 after the vehicle has been built.
+6. A vehicle, comprising:
+15
+13. The vehicle as in claim 6, wherein a first electrical interface between the factory-installed first apparatus and the retrofit apparatus and a second electrical interface between the retrofit apparatus and the factory-installed sec- ond apparatus are identical.
+20 14. The vehicle as in claim 13, wherein the first electrical interface is a variable resistance interface.
+15. The vehicle as in claim 13, wherein the first electrical interface is a CAN vehicle data bus.
+16. The vehicle as in claim 6, wherein the factory- installed first apparatus is indirectly connected to the fac- tory-installed second apparatus through the retrofit appara- tus.
+25
+a factory-installed first apparatus configured to generate an electrical signal;
+a factory-installed second apparatus configured to receive the electrical signal; and
+a retrofit apparatus electrically connected to the factory- 30 installed second apparatus,
+wherein the retrofit apparatus generates a mimicked elec- trical signal independently of the electrical signal gen- erated by the factory-installed first apparatus, and wherein the factory-installed second apparatus receives 35 the mimicked electrical signal.
+7. The vehicle as in claim 6, wherein the mimicked electrical signal generated by the retrofit apparatus is indis- tinguishable to the factory-installed second apparatus from the electrical signal generated by the factory-installed first apparatus.
+17. The vehicle as in claim 6, wherein the retrofit appa- ratus includes a control processor.
+18. The vehicle as in claim 6, wherein the retrofit appa- ratus includes an electronically controlled switch to selec- tively separate a direct electrical connection between the factory-installed first apparatus and the factory-installed second apparatus.
+19. The vehicle as in claim 18, wherein the electronically controlled switch is a relay. 20. The vehicle as in claim 19, wherein the relay is selectively controlled in response to a presence of an elec- trical failure.
+* ** **
+Case 1:22-cv-01105-UNA Document 1-Auffilm gelen
+(12) United States Patent
+Nix
+(54) METHOD, APPARATUS AND SYSTEM FOR RETROFITTING A VEHICLE
+(71) Applicant: Sucxess LLC, Birmingham, MI (US)
+(72) Inventor: Axel Nix, Birmingham, MI (US)
+(73) Assignee: Sucxess LLC, Birmingham, MI (US)
+(*) Notice: Subject to any disclaimer, the term of this patent is extended or adjusted under 35 U.S.C. 154(b) by 102 days.
+(21) Appl. No .: 16/658,364
+(22) Filed: Oct. 21, 2019
+Related U.S. Application Data
+(63) Continuation of application No. 16/025,314, filed on Jul. 2, 2018, now Pat. No. 10,454,707, which is a continuation of application No. 15/442,640, filed on Feb. 25, 2017, now Pat. No. 10,027,505, which is a continuation of application No. 14/846,811, filed on Sep. 6, 2015, now Pat. No. 9,661,664, which is a continuation of application No. 11/742,574, filed on Apr. 30, 2007, now Pat. No. 9,161,195.
+(51) Int. Cl.
+H04L 12/40
+(2006.01)
+G06F 13/42
+(2006.01)
+B60T 7/12
+(2006.01)
+B60R 21/01
+(2006.01)
+H04W 76/50
+(2018.01)
+H04W 4/90
+(2018.01)
+H04B 1/3822
+(2015.01)
+B60R 21/00
+(2006.01)
+(52) U.S. Cl.
+CPC
+.....
+H04L 12/40169 (2013.01); B60R 21/01 (2013.01); B60T 7/12 (2013.01); G06F 13/4282 (2013.01); H04B 1/3822 (2013.01); H04L 12/40 (2013.01); H04W 4/90 (2018.02);
+114
+112
+100
+102
+US011153116B1
+(10) Patent No .: US 11,153,116 B1
+(45) Date of Patent: Oct. 19, 2021
+H04W 76/50 (2018.02); B60R 2021/0027 (2013.01); H04L 2012/40215 (2013.01); H04L 2012/40273 (2013.01)
+(58) Field of Classification Search CPC ... H04L 12/40169; H04L 12/40; B60R 21/01; B60R 2021/0027; B60T 7/12; G06F 13/4282; HO4B 1/3822; HO4W 4/90; H04W 76/50 455/404.2
+USPC
+See application file for complete search history.
+(56) References Cited
+U.S. PATENT DOCUMENTS
+5,311,197 A 5/1994 Sorden et al.
+5,572,204 A
+6,028,537 A 6,151,551 A 2/2000 Suman et al. 11/2000 Geier et al. (Continued)
+11/1996 Timm et al.
+OTHER PUBLICATIONS
+Audiotechnik Dietz Vertriebs-GmbH, "Installation / connection manual for multimedia interface 1280". (Continued)
+Primary Examiner - Congvan Tran
+(74) Attorney, Agent, or Firm -Smartpat PLC
+(57) ABSTRACT
+A system, apparatus, and method for retrofitting a vehicle are presented. The method relates to a vehicle with a factory-installed first apparatus which communicates with a factory-installed second apparatus through a vehicle data bus using a first message. The method includes electrically disconnecting the vehicle data bus between the first appa- ratus and the second apparatus and electrically connecting a retrofit apparatus to the vehicle data bus. The method further includes transmitting a second message from the retrofit apparatus to the first apparatus which is indistinguishable from the first message.
+20 Claims, 7 Drawing Sheets
+110
+108 on
+SERVICE CENTER
+PSTN
+PSAP
+104
+Exhibit B
+106
+Case 1:22-cv-01105-UNA Document 1-2 Filed 08/23/22 Page 2 of 15 PageID #: 26
+(56)
+References Cited
+U.S. PATENT DOCUMENTS
+6,330,499 B1
+12/2001 Chou et al.
+6,493,629 B1 6,535,743 B1 6,617,979 B2 6,647,328 B2 6,665,601 B1 6,687,497 B1 6,690,302 B1 6,748,211 B1 6,812,832 B2 7,016,656 B2 7,129,826 B2 7,206,672 B2 7,398,082 B2
+12/2002 Bosch
+3/2003 Kennedy, I et al.
+9/2003 Yoshioka
+11/2003 Walker 12/2003 Nielsen
+2/2004 Parvulescu et al.
+2/2004 Inomata
+6/2004 Isaac et al.
+11/2004 Lobaza et al.
+3/2006 Odashima et al. 10/2006 Nitz et al. 4/2007 Mueller 7/2008 Schwinke et al.
+7,737,831 B2
+6/2010 Munoz 2/2002 Odashima et al.
+2002/0022489 A1
+2002/0046285 A1 2002/0103622 A1 2002/0115423 A1 2004/0091085 A1 2004/0198466 A1 2004/0233045 A1 2004/0260458 A1 2005/0060066 A1 2006/0017612 A1 2006/0136291 A1 2006/0220806 A1 2007/0016342 A1 2007/0075919 A1 2007/0085815 A1 2007/0086579 A1 2007/0112476 A1 2007/0142028 A1 2007/0174467 A1 2007/0207772 A1 2007/0298765 A1 2008/0093150 A1 2008/0102785 A1
+4/2002 Yasushi et al.
+8/2002 Burge
+8/2002 Hatae et al. 5/2004 Suganuma et al.
+10/2004 Walby et al.
+11/2004 Mays
+12/2004 Park et al.
+3/2005 Buehler et al. 1/2006 Nagatani
+6/2006 Morita et al.
+10/2006 Nguyen 1/2007 Allen et al. 4/2007 Breed 4/2007 Oesterling et al. 4/2007 Lorello et al. 5/2007 Obradovich 6/2007 Ayoub et al. 7/2007 Ballou et al. 9/2007 Huber et al. 12/2007 Dickinson et al. 4/2008 Schramm et al.
+5/2008 Childress et al.
+2008/0143497 A1
+6/2008 Wasson et al.
+US 11,153,116 B1 Page 2
+2008/0162042 A1 7/2008 Huber et al. B60C 23/0408 2008/0243335 A1* 10/2008 Rao
+2009/0030561 A1*
+1/2009 Gurieff
+B60T 8/1755
+2012/0192959 A1*
+8/2012 Wein B60S 1/50
+701/38
+701/1
+137/98
+2013/0159586 A1 6/2013 Kessler
+OTHER PUBLICATIONS
+Ford Motor Company, Mobile radio Installation Guidelines, Mar. 4,
+1998.
+Joachim Schröder, Udo Müller, Rüdiger Dillmann, "Smart Roadster Project: Setting up Drive-by-Wire or How to Remote-Control your Car," Intelligent Autonomous Systems 9-IAS-9 (Feb. 2006). Joachim Schröder, Udo Müller, Rüdiger Dillmann, "Smart Roadster Project: Setting up Drive-by-Wire or How to Remote-Control your Car," Conference Paper (Jan. 2006).
+Johansson, "Vehicle Applications of Controller Area Network", Handbook of Networked and Embedded Control Systems, 2005, pp. 741-765.
+Microchip-MCP2502X/5X"CAN I/O Expander Family" Datasheet. Negley, "Getting Control Through CAN," Sensors, Oct. 2000, vol. 17, #10.
+Robert Bosch GmbH, "CAN Specification, Version 2.0". Szydlowski, "A Gateway for CAN Specification 2.0 Non-Passive Devices", SAE Technical Paper Series, 930005, Mar. 1-5, 1993. Taube et. al., "Comparison of CAN Gateway Module for Automo- tive and Industrial Control Apparatus", CAN in Automation 2005. Dataspeed Inc., Petition for Inter Partes Review of U.S. Pat. No. 10,027,505.
+Dataspeed Inc., Petition for Inter Partes Review of U.S. Pat. No. 10,454,707.
+Dataspeed Inc., Petition for Inter Partes Review of U.S. Pat. No. 9,871,671.
+* cited by examiner
+Case 1:22-cv-01105-UNA Document 1-2 Filed 08/23/22 Page 3 of 15 PageID #: 27
+U.S. Patent
+Oct. 19, 2021
+Sheet 1 of 7
+US 11,153,116 B1
+114
+112
+110
+108
+SERVICE CENTER
+PSTN
+PSAP
+100
+102
+104
+FIG. 1
+106
+208
+5
+BUTTONS
+210
+2
+STATUS INDICATORS
+202
+2
+MIC
+SPEAKER
+200
+2
+TELECOMMUNICATION APPARATUS
+206
+ANTENNA
+204
+VEHICLE DATA BUS
+218
+NAVIGATION SYSTEM
+220
+1 2 4 5
+3
+EMERGENCY CALL APPARATUS
+212
+214~
+6
+222
+7 8
+9
+*
+0
+#
+216
+BUTTONS
+FIG. 2A
+Case 1:22-cv-01105-UNA Document 1-2 Filed 08/23/22 Page 4 of 15 PageID #: 28
+U.S. Patent
+Oct. 19, 2021
+Sheet 2 of 7
+US 11,153,116 B1
+BEFORE RETROFIT
+208
+2
+BUTTONS
+200
+108
+2
+TELECOMMUNICATION APPARATUS
+SERVICE CENTER
+212
+VEHICLE DATA BUS
+FIG. 2B (PRIOR ART)
+AFTER RETROFIT
+208
+2
+BUTTONS
+214
+200
+106
+10
+EMERGENCY
+CALL
+APPARATUS
+TELECOMMUNICATION APPARATUS
+PSAP
+212
+VEHICLE DATA BUS
+FIG. 2C
+Case 1:22-cv-01105-UNA Document 1-2 Filed 08/23/22 Page 5 of 15 PageID #: 29
+U.S. Patent
+Oct. 19, 2021
+Sheet 3 of 7
+US 11,153,116 B1
+300
+212
+302
+2
+AIRBAG CONTROL APPARATUS
+214
+EMERGENCY CALL APPARATUS
+400
+302
+2
+AIRBAG CONTROL APPARATUS
+200
+5
+TELECOMMUNICATION APPARATUS
+218
+2
+NAVIGATION SYSTEM
+VEHICLE DATA BUS
+FIG. 3
+212
+214
+200
+EMERGENCY CALL APPARATUS
+TELECOMMUNICATION APPARATUS
+218
+2
+NAVIGATION SYSTEM
+VEHICLE DATA BUS
+FIG. 4
+Case 1:22-cv-01105-UNA Document 1-2 Filed 08/23/22 Page 6 of 15 PageID #: 30
+U.S. Patent
+Oct. 19, 2021
+Sheet 4 of 7 US 11,153,116 B1
+214
+500
+PUSH BUTTON SWITCH
+506
+POWER SUPPLY
+CONTROL PROCESSOR
+VEHICLE DATA BUS INTERFACE
+216
+504 1
+FIG. 5
+610
+506
+500
+POWER SUPPLY
+PUSH BUTTON SWITCH
+CONTROL PROCESSOR
+VEHICLE DATA BUS INTERFACE
+,512
+BATT
+GND
+510
+BUS
+508
+512
+1
+BATT
+GND
+510
+-BUS1
+O
+NETWORK TERMINATION
+216
+600
+1
+606
+504
+604 FIG. 6
+710
+500
+CONTROL PROCESSOR
+506
+POWER SUPPLY
+PUSH BUTTON SWITCH
+VEHICLE DATA
+BUS INTERFACE
+216
+VEHICLE DATA BUS INTERFACE
+700
+FIG. 7
+-BUS2 1
+608
+602
+512
+BAT
+T
+GND - 510
+BUS1 ~ 600
+BUS2 ~602
+504
+Case 1:22-cv-01105-UNA Document 1-2 Filed 08/23/22 Page 7 of 15 PageID #: 31
+U.S. Patent Oct. 19, 2021
+Sheet 5 of 7
+US 11,153,116 B1
+800
+START
+802
+TRIGGER CONDITION DETECTED?
+NO
+EXIT
+YES
+804
+SEND DIAL COMMAND TO TELECOMMUNICATION APPARATUS
+EXIT
+FIG. 8
+Case 1:22-cv-01105-UNA Document 1-2 Filed 08/23/22 Page 8 of 15 PageID #: 32
+U.S. Patent
+Oct. 19, 2021
+Sheet 6 of 7
+US 11,153,116 B1
+900
+START
+802
+TRIGGER CONDITION DETECTED?
+NO
+EXIT
+YES
+902
+DISPLAY EMERGENCY SCREEN
+904
+EMERGENCY
+CALL
+REQUESTED?
+NO
+EXIT
+YES
+804
+SEND DIAL COMMAND TO TELECOMMUNICATION APPARATUS
+EXIT
+FIG. 9
+Case 1:22-cv-01105-UNA Document 1-2 Filed 08/23/22 Page 9 of 15 PageID #: 33
+U.S. Patent
+Oct. 19, 2021
+Sheet 7 of 7
+US 11,153,116 B1
+1000
+CRASH DETECTED
+1002
+CALL 911
+CALL ONSTAR
+1004
+FIG. 10
+Case 1:22-cv-01105-UNA Document 1-2 Filed 08/23/22 Page 10 of 15 PageID #: 34
+US 11,153,116 B1
+2
+1 METHOD, APPARATUS AND SYSTEM FOR RETROFITTING A VEHICLE TECHNICAL FIELD The present disclosure relates to a method, apparatus and system for retrofitting a vehicle.
+an emergency frequently cause the voice recognition engine to fail detecting a spoken "dial 9-1-1" command and thereby preclude the operator from receiving the help he is seeking. What is therefore needed is a method for combining the 5 benefits of legally mandated free wireless 911 access to a Public Safety Answering Point with the advantageous single button user interface for placing emergency calls to a mobile application service center.
+BACKGROUND OF THE INVENTION
+10 SUMMARY OF THE INVENTION
+Being able to easily alert emergency responders in case of an automobile accident is highly desirable. Mobile applica- In one aspect of the present invention an integrated vehicle communication system includes a telecommunica- tion apparatus in communication with a vehicle data bus. An tion service providers (such as OnStar®) address this need for their subscribers by offering an emergency call button located within reach of the driver of an automobile. Upon 15 emergency call apparatus is also in communication with the pressing the emergency call button an emergency telephone call is placed from a cellular telephone which is embedded in the vehicle through a wireless telecommunication net- work and a public switched telephone network to a service center operated by the mobile application service provider. 20 pressed the emergency call apparatus transmits a telephone
+vehicle data bus, the emergency call apparatus further pro- viding an emergency call push button switch to initiate an emergency telephone call to a Public Safety Answering Point. When the emergency call push button switch is dial command message including a telephone number to be dialed on the vehicle data bus. The telecommunication apparatus is configured to receive the telephone dial com- mand and establish communication with the requested tele- Safety Answering Point in the United States the emergency call apparatus may e.g. transmit a telephone dial command message requesting the telecommunication apparatus to dial "911".
+An emergency call to the service provider may also be initiated automatically, e.g. upon airbag deployment.
+In case of an incoming emergency call the mobile appli- cation service center silently obtains vehicle position infor-
+mation, e.g. information from a GPS receiver that is also 25 phone number. To initiate an emergency call to a Public
+embedded in the vehicle. The mobile application service center as part of an emergency assistance service informs public safety authorities of the emergency and conveys the vehicle's position. The emergency assistance service is typically available only to those who register (for a fee) with 30 the mobile application service provider. Registration with In a further aspect the emergency call apparatus may include an input for an external switch. In this aspect the emergency call push button switch may be remote from the emergency call apparatus and may e.g. be located within reach of the driver of the vehicle whereas the emergency call the mobile application service providers includes an under- lying registration with the wireless telecommunication net- work. Several elements of one such system are described in U.S. Pat. No. 6,812,832 (Lobaza), which is hereby incor- 35 apparatus may be located somewhere else hidden in the porated by reference.
+The embedded cellular telephone may also be used to place hands free telephone calls. Dialing the embedded In another aspect the emergency call apparatus may be added to the vehicle during a retrofit. In this aspect the vehicle may be originally equipped with an embedded cellular telephone may utilize a speech recognition engine that is capable of recognizing spoken telephone numbers or 40 telecommunication apparatus and an emergency call push voice tags associated with telephone numbers. To facilitate dialing the embedded cellular telephone may also be con- button switch connected thereto. Before the retrofit pressing the emergency call button is detected by the telecommuni- cation apparatus which responsive to the button press initi- ates an emergency call to a mobile application service nected to an external keypad, e.g. a telephone-style keypad located in the vehicle's dashboard or a virtual keypad displayed on a touch screen display. The external keypad 45 center. may communicate with the embedded cellular telephone by sending a telephone dial command message through the During the retrofit an emergency call apparatus is added to the vehicle. The electrical connection between the emer- gency call push button switch and the telecommunication apparatus is separated and the emergency call push button vehicle communication network. The embedded cellular telephone is accordingly configured to receive telephone dial command messages on the vehicle communication network 50 switch is rewired and connected to the emergency call and establish a telephone call to the requested telephone number. apparatus.
+vehicle.
+US law obligates commercial mobile radio service pro- viders to transmit all wireless 911 emergency calls without Answering Point (PSAP), or, where no Public Safety Answering Point has been designated, to a designated state- wide default answering point or appropriate local emergency authority. The law extends to voice capable cellular tele- phones embedded in vehicles. An embedded cellular tele- 60 Answering Point.
+After the retrofit pressing the emergency call push button is detected by the emergency call apparatus which respon- sive to the button press transmits a telephone dial command
+respect to their call validation process to a Public Safety 55 message on the vehicle data bus. The telephone dial com-
+mand message may request the telecommunication appara- tus to dial the telephone number 911. The telecommunica- tion apparatus responsive to receiving the telephone dial command message establishes a voice call to a Public Safety
+phone can hence be used in an emergency to directly alert In yet another aspect the emergency call apparatus may be configured to detect a trigger condition and responsive thereto request the telecommunication apparatus to establish communication with a Public Safety Answering Point. The button press. As part of an automatic emergency calling system the trigger condition may also be the receipt of one public safety authorities by dialing 911 regardless of regis- tration status with the mobile application service provider or the underlying wireless telecommunication network. How- ever, the user interface provided to dial 911 is inferior to 65 trigger condition may be a manual emergency call push single button activation and may e.g. require use of the voice recognition interface. Changes in an operator's voice during
+Case 1:22-cv-01105-UNA Document 1-2 Filed 08/23/22 Page 11 of 15 PageID #: 35
+US 11,153,116 B1
+3
+or more messages on the vehicle data bus which are reflec- tive of a vehicle accident, e.g. a message signaling airbag deployment. Upon detecting a trigger condition the emer- gency call apparatus may transmit a telephone dial com- mand message on the vehicle data bus requesting the tele- 5 communication apparatus to dial 911. The telecommunication apparatus responsive to receiving the telephone dial command message establishes a voice call to a Public Safety Answering Point.
+4
+FIG. 2B is a block diagram showing aspects of a prior art vehicle communication system for communicating with a mobile application service center before retrofit with an emergency call apparatus.
+FIG. 2C is a block diagram showing aspects of a vehicle communication system for communicating with a Public Safety Answering Point after retrofit with an emergency call apparatus.
+FIG. 3 is a block diagram illustrating a vehicle commu- 10 nication system showing an airbag control apparatus, a telecommunication apparatus, an emergency call apparatus and a navigation system communicating through a common vehicle data bus.
+In still another aspect the emergency call apparatus may provide an electrically controlled switch to separate the vehicle communication network into two subnets. One sub- net may be used to communicate between the emergency call apparatus and the telecommunication device and the other subnet may be used to communicate between the emergency call apparatus and the rest of the vehicle. This aspect can compensate for possible loss of communication on the vehicle data bus after a vehicle crash, e.g. because a wire within the communication network is shorted to ground 20 communication system configuration as shown in FIG. 3. or battery as a result of the crash. The emergency call apparatus may be configured to detect loss of communica- tion and responsive thereto open the electrically controlled switch, thereby dividing the communication network into the two electrically insulated subnets. In result the emer- 25 the emergency call apparatus show in FIG. 6. gency call apparatus separates the damaged portion of the vehicle communication network from its connection to the telecommunication apparatus and thereby regains its ability to communicate with the telecommunication apparatus and initiate an emergency call even though communication with the rest of the vehicle is no longer possible.
+FIG. 4 is a block diagram illustrating an alternative 15 embodiment of a vehicle communication system in which the telecommunication apparatus is connected to the vehicle data bus through the emergency call apparatus.
+FIG. 5 is a block diagram illustrating an exemplary embodiment of an emergency call apparatus for a vehicle
+FIG. 6 is a block diagram illustrating an exemplary embodiment of an emergency call apparatus for a vehicle communication system configuration as shown in FIG. 4. FIG. 7 is a block diagram of an alternative embodiment of FIG. 8 is a flow diagram illustrating an exemplary method for initiating an emergency call.
+FIG. 9 is a flow diagram illustrating an alternative embodiment of the method shown in FIG. 8.
+30 FIG. 10 is a schematic diagram of an exemplary touch screen display.
+In yet another aspect the emergency call apparatus may provide two vehicle data bus interfaces wherein the first interface is used to communicate with the telecommunica- tion apparatus and the second interface is used to commu- nicate with the rest of the vehicle. In this aspect the emergency call apparatus acts as a bi-directional gateway between the two vehicle data bus interfaces. Messages
+DETAILED DESCRIPTION
+35 Referring to FIG. 1, there is shown a vehicle 100 featuring a mobile telecommunication apparatus, suitable for use with an embodiment of the invention, and which may be installed in the vehicle or carried into the vehicle by the subscriber. The mobile telecommunication apparatus communicates
+which the emergency call apparatus receives through the 40 through a wireless network 102, symbolized by a local first vehicle data bus interface are retransmitted through the second vehicle data bus interface. Vice versa messages received through the second vehicle data bus interface are retransmitted through the first vehicle data bus interface. The
+telecommunication antenna tower, with a public switched telephone network (PSTN) 104, to which are also connected telephones 110 and 112. Wireless network 102 may also communicate with other wireless telecommunication mobile telecommunication apparatus in vehicle 100, which will be described in more detail with reference to FIG. 2A, may include a cellular telephone or any other wireless device that may be registered with a cellular service provider
+two vehicle data bus interfaces are electrically insulated 45 devices, here symbolized by a wireless telephone 114. The from each other such that the emergency call apparatus maintains its ability to communicate with the telecommu- nication apparatus even if communication with the rest of the vehicle can not be established, e.g. because a commu-
+nication bus wire is shorted to ground or battery as may 50 providing general dialing capability in connection with, and happen during an accident.
+The following detailed description of the invention is merely exemplary in nature and is not intended to limit the invention or the application and uses of the invention. Furthermore, there is no intention to be bound by any theory 55 104 with a Public Safety Answering Point (PSAP) 106. presented in the preceding background of the invention or the following detailed description of the invention.
+operation through, PSTN 104. It may also include a cellular telephone or other wireless device that is not or that is no longer registered with a cellular service provider so long as it provides connection with and operation through PSTN
+DESCRIPTION OF THE DRAWINGS
+The telecommunication apparatus carried in vehicle 100 may have been designed to provide access to mobile appli- cation services of a service provider such as, for example, OnStar®. Mobile application services are typically provided 60 within a subscription business model, which requires pay- ment of a subscription fee per period, e.g. $19.95 per month or $199 per year. The telecommunication apparatus may have been permanently installed in the vehicle at the time of vehicle assembly and the cost of the telecommunication
+FIG. 1 is a schematic diagram of an exemplary wireless and a public switched telecommunication network through which emergency calls can be placed from a vehicle to a service center or Public Safety Answering Point.
+FIG. 2A is a block diagram illustrating the vehicle portion 65 apparatus may have been subsidized by the service provider of a wireless communication system for placing emergency calls used in the vehicle of FIG. 1.
+in anticipation of future subscription revenue if the owner or lessor of vehicle 100 registers for mobile application ser-
+Case 1:22-cv-01105-UNA Document 1-2 Filed 08/23/22 Page 12 of 15 PageID #: 36
+US 11,153,116 B1
+5
+6
+vices. The service provider generally maintains at least one service center 108, which is connected to PSTN 104 and which the subscriber and other subscribers in other vehicles call for the mobile application services. The mobile appli- cation services may include, for example, requests for 5 wireless network. To facilitate dialing telecommunication vehicle location, selection of specific points of interest and directions thereto, and emergency assistance (both requested and automatic), as well as others not named.
+Telecommunication apparatus 200 may provide general dialing capability, e.g. to a telephone 110, 112 within the public switched telephone network 104 or to a wireless telephone 114 through wireless network 102 or any other
+If the owner or lessor of vehicle 100 does not register with the service provider, e.g. to avoid the financial burden 10 telecommunication apparatus 200. Each voice model associated with a subscription, the service provider may refuse to provide mobile application services including emergency assistance. The mobile application service pro- vider may also deactivate the telecommunication apparatus
+apparatus 200 may include a voice recognition and activa- tion apparatus, which responds to predetermined spoken data via microphone 202 to perform predetermined func- tions. It accesses a plurality of voice models stored within
+includes data permitting recognition of a spoken word or phrase. The voice recognition apparatus compares received spoken data with the voice models in order to recognize those words and phrases which are defined and for perform- models represent commands, such as "menu," "store," "dial," "call," etc. Other voice models represent the digits required for telephone dialing: "one," "two," etc. For example, the apparatus may be programmed to recognize the 20 phrase "Dial 9-1-1 Dial" and respond by placing a call to a Public Safety Answering Point. General dialing capability may be initiated by the word "Dial" followed by the number, digit by digit.
+located within vehicle 100. Deactivating the telecommuni- 15 ing predetermined actions in response thereto. Some voice cation apparatus may include deregistering the cellular tele- phone therein from wireless network 102 so that the tele- communication apparatus can no longer gain access to wireless network 102 for general dialing and can thus no longer connect to service center 108.
+Even if the telecommunication apparatus within vehicle 100 has been deactivated and the cellular telephone therein been deregistered from wireless network 102 both can still be used to establish a connection to a Public Safety Answer- a subscription with the service provider or the underlying wireless network 102. This is, especially in the United States, to comply with federal law mandating free access to a PSAP for all devices used to access a commercial mobile radio service (CMRS).
+Telecommunication apparatus 200 may also be config- connected directly to communication apparatus 200 or indi- rectly connected to another module which communicates with telecommunication apparatus 200 through the vehicle data bus 212. In an exemplary embodiment navigation 30 system 218 comprises a touch screen display 220 which displays a virtual telephone keypad 222. An operator may enter a telephone number he wishes to dial on the virtual keypad 222. After the telephone number has been entered navigation system 218 transmits a telephone dial command number to be dialed. Telecommunication apparatus 200 responsive to receiving the telephone dial command mes- sage establishes voice and/or data communication with the desired telephone number.
+ing Point (PSAP). Connecting to a PSAP is independent of 25 ured to allow dialing utilizing a keypad which may be
+Referring now to FIG. 2A there is shown wireless tele- communication apparatus 200 in vehicle 100. The telecom- munication apparatus 200 communicates voice and data through an antenna 206 with wireless network 102 and through wireless network 102 with public switched tele- 35 message on the vehicle data bus 212 including the telephone phone network 104. The telecommunication apparatus 200 may provide "hands-free" voice communication through a microphone 202 and speaker 204. The telecommunication apparatus may include a GPS or similar navigation appara- tus (not shown) which receives signals through a GPS 40 Quicker and easier access to dialing 911 and establishing voice and/or data communication with a Public Safety Answering Point is provided by emergency call apparatus 214, which is connected to vehicle data bus 212 and to one or more buttons 216. Buttons 216 may include an emergency antenna (not shown) from global positioning satellites and derives therefrom position data (e.g., the longitude and latitude and/or the speed and heading) of the apparatus. The telecommunication apparatus 200 may convert the GPS position information into a transmissible form for subse- 45 call push button switch which when pressed causes emer- quent transmission from vehicle 100 to service center 108 or Public Safety Answering Point 106. Communication gency call apparatus 214 to transmit a telephone dial com- mand message including a telephone number to be dialed on vehicle data bus 212. Telecommunication apparatus 200 responsive to receiving the telephone dial command mes- between the telecommunication apparatus 200 and service center 108 or PSAP 106 may be voice communication utilizing microphone 202 and speaker 204 and/or data 50 sage establishes voice communication with the requested communication the data comprising e.g. GPS location infor- mation.
+Connected to the telecommunication apparatus 200 are one or more buttons 208 and status indicator 210. Buttons As is shown in FIG. 2B vehicles equipped with an also equipped with buttons 208, one of which may be an emergency call button to initiate an emergency call to service center 108. Buttons 208 and telecommunication apparatus 200 do not serve any useful purpose if the owner 208 provide a simple user interface for an operator, e.g. the 55 embedded telecommunication apparatus 200 are typically driver or passenger in vehicle 100, to interact with the telecommunication apparatus 200. The buttons 208 may e.g. include a dedicated emergency call button. If the emergency call button is pressed telecommunication apparatus 200 establishes voice and/or data communication with service 60 or lessor of vehicle 100 does not register with the mobile center 108. Status indicator 210, which may e.g. be one or more light emitting diodes or any other form of display, application service provider. The existing buttons 208 and the telecommunication apparatus 200 may however be used when retrofitting vehicle 100 with an emergency call appa- ratus 214 at some time after vehicle built. provides feedback to the vehicle operator as to the status of the telecommunication apparatus 200. Telecommunication apparatus 200 is also connected to vehicle data bus 212 to 65 An exemplary method of retrofitting vehicle 100 is show exchange messages with other electronic modules within in FIG. 2C. Vehicle 100 is retrofitted by adding emergency call apparatus 214. The electrical connection between but- vehicle 100 as required.
+telephone number, e.g. 911. Emergency call apparatus 214 and its operation are described in more detail with reference to FIGS. 5 through 9 below.
+Case 1:22-cv-01105-UNA Document 1-2 Filed 08/23/22 Page 13 of 15 PageID #: 37
+US 11,153,116 B1
+7
+8
+tons 208 and telecommunication apparatus 200 is removed and instead buttons 208 are rewired and connected to emergency call apparatus 214. Optionally the vehicle data bus connection between telecommunication apparatus 200 and vehicle data bus 212 may be disconnected and instead 5 vehicle data bus 212 indirectly through emergency call re-routed into the emergency call apparatus 214. A new connection is made between the emergency call apparatus 214 and vehicle data bus 212. Further, emergency call apparatus 214 is connected to vehicle battery and vehicle ground to power emergency call apparatus 214.
+FIG. 6 is an alternative embodiment showing an emer- gency call apparatus 610 which may be used in the vehicle communication system 400 shown in FIG. 4. In this example the telecommunication apparatus 200 is connected to the
+apparatus 610. Electrical terminal 600 connects the emer- gency call apparatus 610 to the telecommunication commu- nication apparatus 200. Electrical terminal 602 connects the emergency call apparatus 610 to vehicle data bus 212 and 10 through that to all other electronic modules communicating through vehicle data bus 212. Control processor 500 elec- tronically controls switch 606, which may e.g. be an elec- tromechanical relay with coil 604, or any other suitable switching device. Switch 606 is normally closed, creating a 15 short circuit between electrical terminals 600 and 602. In case of a crash the vehicle communication system 400 may be damaged, e.g. may deformation to the vehicle's sheet metal have caused a wire of vehicle data bus 212 to be shortened to vehicle ground or battery, making communi- 500 is configured to detect such damage to the communi- cation system by monitoring its vehicle data bus interface 504. If damage to the communication system is detected control processor 500 restores communication with the 25 telecommunication device 200 by opening switch 606 and thereby disconnecting the damaged part of the vehicle communication system 400 from vehicle data bus interface 504. In its open position switch 606 may cause vehicle data bus interface 504 to be connected to a network termination ent in the now disconnected vehicle communication system. Network termination may consist of a pull-up or pull-down resistor or any other electronic circuit known in the art of electronic communication for terminating communication
+To enable the rewiring of buttons 208 the electrical interface between buttons 216 and emergency call apparatus 214 may be identical to the electrical interface between buttons 208 and telecommunication apparatus 200. Using an identical interface, e.g. the same resistor values in case of resistor coded switches, provides that an emergency call button 208 which is connected to and used in combination with telecommunication apparatus 200 before the retrofit can be rewired and used in combination with emergency call 20 cation on vehicle data bus 212 impossible. Control processor apparatus 214 after the retrofit. This simplifies the process of retrofitting vehicle 100 which may have originally been equipped with telecommunication apparatus 200 and but- tons 208 but not emergency call apparatus 214 and buttons 216.
+Referring now to FIG. 3, there is shown a block diagram illustrating an exemplary vehicle communication system 300 including the telecommunication apparatus 200, an airbag control apparatus 302, the emergency call apparatus 214 and the navigation system 218. As is shown, each 30 element 608, simulating a network termination usually pres- system is in communication with the vehicle's data bus 212, which may be a Class 2 or CAN vehicle data bus or any other suitable bus known in the art for electronic data communication.
+FIG. 4 illustrates an alternative embodiment of the vehicle 35 networks. communication system 400. In this embodiment telecom- munication apparatus 200 is in communication with vehicle data bus 212 using an indirect connection made trough emergency call apparatus 214, as will be explained in more detail with respect to FIG. 6 and FIG. 7.
+FIG. 7 shows another alternative embodiment of emer- gency call apparatus 710. In this example control processor 500 communicates with telecommunication apparatus 200 through vehicle data bus interface 504 and electrical termi- 40 nal 600. It is also communicates with other electronic modules connected to the vehicle data bus 212 through a second vehicle data bus interface 700 and electrical terminal 602. Vehicle data bus interface 504 and vehicle data bus 700 are electrically insulated from each other so that damage to
+FIG. 5 is a block diagram illustrating an exemplary emergency call apparatus 214. Control processor 500, which may take the form of a programmed digital computer or a custom digital processor, is operatively connected to push button switch 216. Push button switch 216 may be an 45 the vehicle data bus 212 does not affect the ability of control emergency call button located within easy reach of the driver and labeled prominently, e.g. with a Red Cross icon or the processor 500 to communicate with the telecommunication device 200 through vehicle data bus interface 504. During normal operation control processor 500 is configured to act as bidirectional gateway between vehicle data bus interface letters "SOS". Push button switch 216 is designed to be easily found and operated by the driver or passenger of vehicle 100 even under stress. Push button switch 216 may 50 504 and vehicle data bus 700. Control processor 500 re- be any suitable device that translates a human operator's intention into a signal that can be detected by control transmits any messages it receives from vehicle data bus interface 504 through vehicle data bus interface 700 and any messages it receives from vehicle data bus interface 700 through vehicle data bus interface 504, thereby functionally data bus 212. processor 500, including e.g. a momentary push button switch, a toggle switch, a rocker switch, a rotary switch or a virtual button on a touch screen display. Control processor 55 connecting telecommunication apparatus 200 with vehicle 500 is connected to the vehicle data bus 212 through a vehicle data bus interface 504 using an electrical terminal FIG. 8 is a flow diagram illustrating an exemplary method 800 that may be implemented in control processor 500. Control processor 500 is configured to detect a trigger manual operator request to initiate an emergency call, e.g. by pressing emergency call push button switch 216. The trigger condition may also be the receipt of a predetermined mes- sage or a combination of predetermined messages on vehicle 508. Control processor 500 and vehicle data bus interface 504 are powered by power supply 506. Power supply 506 is connected to the vehicle's power distribution system 60 condition in block 802. The trigger condition may be a through vehicle battery terminal 512 and vehicle ground terminal 510. While emergency call apparatus 214 is shown as a stand alone unit it should be appreciated that it may also be integrated within another electronic control module in which case control processor 500, power supply 506 and 65 data bus 212. The predetermined message or messages may vehicle data bus interface 504 may be shared with other e.g. reflect that the airbag control apparatus 302 has inflated an airbag in vehicle 100. Other suitable messages that may functions.
+Case 1:22-cv-01105-UNA Document 1-2 Filed 08/23/22 Page 14 of 15 PageID #: 38
+US 11,153,116 B1
+9
+act as a trigger for automatic emergency calling include a message from an object detection apparatus indicating that vehicle 100 was involved in a collision, a message indicating vehicle deceleration above a predetermined threshold or any other message or combination of messages which indicate 5 that vehicle 100 was involved in a severe accident which may have caused the occupants within vehicle 100 to be injured and no longer be able to manually initiate an emergency call.
+10
+are configured to respond to predetermined messages which are distinguished from other messages by their identifier segments.
+TABLE 1
+Identifier Segment 11 bit or 29 bit
+Data Segment 0 to 8 bytes
+Example 0x0CF00400 39 31 31 23 FF FF FF FF
+If the trigger condition in block 802 is detected then in 10 step 804 control processor 500 sends a telephone dial command message to the telecommunication apparatus 200. To avoid the unlikely but possible collision of two tele- phone dial command messages issued simultaneously by both the navigation system 218 and the emergency call The telephone dial command consists of or is part of a predetermined message on the vehicle data bus containing a telephone number to be dialed. Telecommunication appara- 15 apparatus 214 the emergency call apparatus 214 may in a tus 200 is configured to receive the telephone dial command vehicle communication system configuration 400 actively prevent such collision. Accordingly control processor 500 in an embodiment as shown in FIG. 6 may in a first step open switch 606 so that the navigation system 218 is no longer and responsive thereto establish voice and/or data commu- nication through wireless network 102 and PSTN 104 with the desired telephone number. For emergency use in the United States the telephone number requested in step 804 20 connected to the telecommunication apparatus 200 before will typically be "911" to establish communication with a PSAP.
+As described earlier with respect to FIG. 2B and FIG. 2C emergency call apparatus 214 may be retrofitted into a vehicle 100 at some time after the vehicle has been built. In 25 telephone dial command received from the navigation sys- case of a retrofit telecommunication apparatus 200 may not haven been designed for use with the emergency call appa- ratus 214. In particular, telecommunication apparatus 200 may not have been configured to receive a telephone dial FIG. 9 is a flow diagram showing an alternative exem- embodiment is suitable for example for vehicles in which the emergency call apparatus 214 is integrated with the navigation system 218 and where the navigation system 218 is connected to a display. If in step 802 a trigger condition, command message on vehicle data bus 212 that is originat- 30 plary embodiment of the method illustrated in FIG. 8. This ing from emergency call apparatus 214. Telecommunication apparatus 200 may however have been configured to receive telephone dial command messages on vehicle data bus 212 that are originating from other devices, for example navi- gation system 218. To operate under these circumstances 35 e.g. an airbag deployment, is detected the emergency call emergency call apparatus 214 may be configured to mimic apparatus displays or causes to be displayed an emergency screen 1000 comprising a prominent user interface to acti- vate an emergency call. If in step 904 an emergency call is requested the emergency call apparatus in step 804 sends a 200. the telephone dial command message originating e.g. from navigation system 218. To mimic the dial command message emergency call apparatus 214 uses the same message iden- tifier segment that has been assigned to navigation system 40 telephone dial command to telecommunication apparatus 218 when transmitting its telephone dial command message. By sharing the same message identifier segment a telephone Finally, an exemplary emergency screen 1000 as may e.g. be used within a touch screen navigation display is shown in FIG. 10. Emergency screen 1000 comprises virtual button dial command message originating from emergency call apparatus 214 and a telephone dial command message originating from navigation system 218 become indistin- 45 1002 to call PSAP 106 and virtual button 1004 to call service guishable for the telecommunication apparatus 200. Tele- center 108. communication apparatus 200 hence responds properly to a While the invention has been described with reference to a preferred embodiment(s), it will be understood by those skilled in the art that various changes may be made and telephone dial command message originating from emer- gency call apparatus 214 even though it may not have been designed for this purpose. While emergency call apparatus 50 equivalents may be substituted for elements thereof without 214 shares the same message identifier segment with navi- departing from the scope of the invention. In addition, many modifications may be made to adapt a particular situation or material to the teachings of the invention without departing from the essential scope thereof. Therefore, it is intended gation system 218 it should be understood that vehicle 100 need not necessarily be equipped with navigation system 218. It is sufficient if telecommunication apparatus 200 is configured to respond to telephone dial command messages 55 that the invention not be limited to the particular embodi- on the vehicle data 212 bus irrespective of whether the potential transmitter of such a message is actually present in the vehicle.
+control processor 500 in a second step transmits its tele- phone dial command message to the telecommunication apparatus 200. Control processor 500 in an embodiment as shown in FIG. 7 may selectively suppress forwarding a tem 218 through vehicle data bus interface 700 while transmitting its own telephone dial command through vehicle data bus interface 504.
+Table 1 illustrates the structure of an exemplary vehicle data bus message. As illustrated the message consist of an 60 identifier segment, which in case of CAN messages may e.g. be 11 or 29 bits long, and a data segment carrying the message payload, which may be up to 8 bytes long. To avoid message collision vehicle communication networks usually use unique identifier segments for each transmitting module, 65 if the same message is originating from more than one module. Modules connected to the communication network
+ment disclosed as the best mode contemplated for carrying out this invention, but that the invention will include all embodiments falling within the scope of the appended claims.
+What is claimed is:
+1. A retrofit apparatus for installation in an existing vehicle, comprising:
+a control processor;
+a first vehicle data bus terminal for electrically connecting the retrofit apparatus to a first factory-installed appa- ratus;
+Case 1:22-cv-01105-UNA Document 1-2 Filed 08/23/22 Page 15 of 15 PageID #: 39
+US 11,153,116 B1
+11
+a second vehicle data bus terminal for electrically con- necting the retrofit apparatus to a second factory- installed apparatus; and
+an electromechanical relay operatively connected to and controlled by the control processor, the relay being 5 configured to selectively connect the first vehicle data bus terminal to the second vehicle data bus terminal, wherein
+12
+an original data bus message originating in the second factory-installed apparatus reaches the first factory- 10 installed apparatus when the relay connects the first vehicle data bus terminal to the second vehicle data bus terminal, and
+13. A vehicle, comprising: the retrofit apparatus as in claim 1. 14. A method, comprising:
+providing a vehicle having a factory-installed first appa- ratus and a factory-installed second apparatus; and installing the retrofit apparatus as in claim 1 in the vehicle. 15. A retrofit apparatus for installation in an existing vehicle, comprising:
+a power supply connected to the vehicle's power distri- bution system through a vehicle battery terminal and a vehicle ground terminal;
+wherein the original data bus message originating in the second factory-installed apparatus does not reach the 15 first factory-installed apparatus when the relay discon- nects the first vehicle data bus terminal from the second vehicle data bus terminal, and wherein the retrofit apparatus transmits a mimicked data bus message to the first factory-installed apparatus. 20 2. The retrofit apparatus as in claim 1, wherein the control processor is configured to detect a loss of communication.
+a control processor powered by the power supply;
+a first CAN bus terminal for electrically connecting the retrofit apparatus to a first factory-installed apparatus; a second CAN bus terminal for electrically connecting the retrofit apparatus to a second factory-installed appara- tus;
+an electromechanical relay operatively connected to and controlled by the control processor, the relay being configured to selectively connect the first CAN bus terminal to the second CAN bus terminal; and
+3. The retrofit apparatus as in claim 2, wherein the control processor is configured to control the 25 relay in response to detecting the loss of communica- tion.
+4. The retrofit apparatus as in claim 1, wherein the electromechanical relay is normally closed, thereby elec- trically connecting the first vehicle data bus terminal to 30 the second vehicle data bus terminal when the retrofit apparatus is not powered.
+5. The retrofit apparatus as in claim 1, further comprising an input for an external switch opera- tively connected to the control processor.
+35
+6. The retrofit apparatus as in claim 5,
+wherein the control processor is configured to send a predetermined mimicked message to the second fac- tory-installed apparatus in response to activation of the external switch.
+7. The retrofit apparatus as in claim 1, wherein the mimicked data bus message is indistinguishable to the factory-installed second apparatus from the original data bus message originating in the second factory-installed appara- tus.
+45 16. The retrofit apparatus as in claim 15, wherein the relay is normally closed.
+8. The retrofit apparatus as in claim 1, further comprising a network termination element electrically connected to the first vehicle data bus terminal.
+a CAN bus interface powered by the power supply, the CAN bus interface being connected to the control processor and to the first CAN bus terminal and indi- rectly connected to the second CAN bus terminal through the relay only when the relay is closed,
+wherein an original CAN bus message originating in the second factory-installed apparatus reaches the first fac- tory-installed apparatus when the relay is closed and connects the first CAN bus terminal to the second CAN bus terminal, and wherein the original CAN bus message originating in the second factory-installed apparatus does not reach the first factory-installed apparatus when the relay is open and disconnects the first CAN bus terminal from the second CAN bus terminal, wherein the retrofit apparatus transmits a mimicked CAN bus message to the first factory-installed apparatus, wherein the mimicked CAN bus message has the same identifier as the original CAN bus message, and wherein the mimicked CAN bus message is transmitted only after the relay disconnects the first CAN bus terminal from the second CAN bus terminal.
+40
+17. The retrofit apparatus as in claim 16, further compris- ing a pull-up resistor that is selectively connected to the first CAN bus terminal only while the relay is open. 18. The retrofit apparatus as in claim 16, wherein the control processor is configured to detect a trigger condition, and
+9. The retrofit apparatus as in claim 8, wherein the network termination element is a resistor.
+10. The retrofit apparatus as in claim 8, wherein the network termination element is connected to the first vehicle data bus interface by the relay.
+11. The retrofit apparatus as in claim 1, wherein the retrofit apparatus is configured to prevent a message colli- 55 sion between the data bus message originating in the second factory-installed apparatus and the mimicked data bus mes- sage.
+12. The retrofit apparatus as in claim 11, wherein the retrofit apparatus transmits the mimicked data bus message 60 only after the factory-installed first apparatus and the fac- tory-installed second apparatus have been electrically dis- connected from one another.
+50
+wherein the control processor is configured to transmit the mimicked message in response to detecting the trigger condition. 19. The retrofit apparatus as in claim 18, wherein the trigger condition is a manual operator request. 20. The retrofit apparatus as in claim 18, wherein the trigger condition is a receipt of a predeter- mined message. *****
